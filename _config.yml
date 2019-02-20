@@ -16,9 +16,6 @@ collections:
     title: Relevant Documents
     output: true
     permalink: "/ngos/:collection/:name/"
-  speeches:
-    title: Speeches
-    output: true
   testimonials:
     title: Testimonials
     output: true
