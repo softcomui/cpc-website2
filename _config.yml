@@ -19,10 +19,6 @@ collections:
     title: How-Tos
     output: true
     permalink: "/how-tos/:collection/:name/"
-  people:
-    title: Our People
-    output: true
-    permalink: "/about/:collection/:name/"
   posts:
     title: Posts
     output: true
