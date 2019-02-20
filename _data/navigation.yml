@@ -1,0 +1,83 @@
+mainnav:
+- section: Home
+  url: "/"
+- section: About Us
+  url: "/about/"
+  pages:
+  - page: The Council
+    url: "/about/council/"
+  - page: What We Do
+    url: "/about/what-we-do/"
+  - page: Strategic Goals
+    url: "/about/strategic-goals/"
+  - page: Departments & Units
+    url: "/about/departments/"
+  - page: People
+    url: "/about/people/"
+  - page: Strategic Alliances
+    url: "/about/alliances/"
+  - page: FAQs
+    url: "/faqs/"
+  - page: Contact
+    url: "/contact/"
+- section: Consumers
+  url: "/consumers/"
+  pages:
+  - page: Consumer Rights
+    url: "/consumers/rights/"
+  - page: Consumer Responsibilities
+    url: "/consumers/responsibilities/"
+  - page: Complaints Handling Procedures
+    url: "/consumers/complaints-handling-procedures/"
+  - page: Import Prohibition List
+    url: "/consumers/import-prohibition-list"
+  - page: Absolutely Prohibited Product List
+    url: "/consumers/absolutely-prohibited-list/"
+  - page: Testimonials
+    url: "/consumers/testimonials/"
+  - page: Consumer Blog
+    url: "/blog/"
+- section: Businesses
+  url: "/businesses/"
+  pages:
+  - page: Business Obligations
+    url: "/businesses/obligations/"
+  - page: Sales Promotions Regulations and Guidelines
+    url: "/businesses/sales-promotion-guidelines/"
+  - page: Register Sales Promotion
+    url: "/businesses/register-sales-promotion/"
+  - page: Sales Promotion Documents
+    url: "/businesses/documents/"
+- section: Guidelines
+  url: "/guidelines/"
+  pages:
+  - page: Relevant Documents
+    url: "/guidelines/documents/"
+- section: Publications
+  url: "/publications/"
+  pages:
+  - page: Annual Reports
+    url: "/publications/annual-reports/"
+  - page: Consumer Education Materials
+    url: "/publications/materials/"
+  - page: PBOR
+    url: "/publications/PBOR"
+- section: News & Events
+  url: "/news-events/"
+  pages:
+  - page: Releases
+    url: "/news-events/releases/"
+  - page: Speeches
+    url: "/news-events/speeches/"
+  - page: Announcements
+    url: "/news-events/announcements/"
+  - page: Alert/Advisory
+    url: "/news-events/alerts/"
+  - page: Events
+    url: "/news-events/events/"
+  - page: Gallery
+    url: "/gallery/"
+- section: How to...
+  url: "/how-tos/"
+- section: Search
+  url: "/search/"
