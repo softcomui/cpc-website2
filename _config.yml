@@ -5,10 +5,6 @@ collections:
   announcements:
     title: Announcements
     output: true
-  how-tos:
-    title: How-Tos
-    output: true
-    permalink: "/how-tos/:collection/:name/"
   posts:
     title: Posts
     output: true
