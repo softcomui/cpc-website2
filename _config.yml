@@ -15,13 +15,6 @@ collections:
     title: Businesses
     output: true
     permalink: "/businesses/:collection/:name/"
-  consumers:
-    title: Consumers
-    output: true
-    permalink: "/consumers/:collection/:name/"
-  events:
-    title: Events
-    output: true
   gallery:
     title: Gallery
     output: true
