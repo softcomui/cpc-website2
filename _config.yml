@@ -16,10 +16,6 @@ collections:
     title: Relevant Documents
     output: true
     permalink: "/ngos/:collection/:name/"
-  testimonials:
-    title: Testimonials
-    output: true
-    permalink: "/consumers/testimonials/:collection/:name/"
   uploads:
     title: Uploads (Media & Files)
     output: true
