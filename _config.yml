@@ -12,9 +12,6 @@ collections:
     title: Publications
     output: true
     permalink: "/publications/:collection/:name/"
-  releases:
-    title: Releases
-    output: true
   documents:
     title: Relevant Documents
     output: true
