@@ -8,10 +8,6 @@ collections:
   announcements:
     title: Announcements
     output: true
-  businesses:
-    title: Businesses
-    output: true
-    permalink: "/businesses/:collection/:name/"
   how-tos:
     title: How-Tos
     output: true
