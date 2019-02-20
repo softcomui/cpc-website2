@@ -2,9 +2,6 @@
 title: Consumer Protection Council
 timezone: Pacific/Pago_Pago
 collections:
-  alerts:
-    title: Alerts & Advisory
-    output: true
   announcements:
     title: Announcements
     output: true
