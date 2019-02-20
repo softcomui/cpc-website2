@@ -2,9 +2,79 @@
 title: Consumer Protection Council
 timezone: Pacific/Pago_Pago
 collections:
+  alerts:
+    title: Alerts & Advisory
+    output: true
+  announcements:
+    title: Announcements
+    output: true
+  brochure:
+    title: Brochure
+    output: true
+  businesses:
+    title: Businesses
+    output: true
+    permalink: "/businesses/:collection/:name/"
+  blog:
+    title: Consumer Blog
+    output: true
+  education:
+    title: Consumer Education Materials
+    output: true
+  cpa:
+    title: Consumer Protection Alliances
+    output: true
+  consumers:
+    title: Consumers
+    output: true
+    permalink: "/consumers/:collection/:name/"
+  departments:
+    title: Departments and Units
+    output: true
+    permalink: "/about/departments/:collection/:name/"
+  events:
+    title: Events
+    output: true
+  gallery:
+    title: Gallery
+    output: true
+  how-tos:
+    title: How-Tos
+    output: true
+    permalink: "/how-tos/:collection/:name/"
+  people:
+    title: Our People
+    output: true
+    permalink: "/about/:collection/:name/"
+  partners:
+    title: Partners
+    output: true
+    permalink: "/about/partners/:collection/:name/"
   posts:
     title: Posts
     output: true
+  publications:
+    title: Publications
+    output: true
+    permalink: "/publications/:collection/:name/"
+  regulators:
+    title: Regulators
+    output: true
+    permalink: "/about/regulators/:collection/:name/"
+  releases:
+    title: Releases
+    output: true
+  documents:
+    title: Relevant Documents
+    output: true
+    permalink: "/ngos/:collection/:name/"
+  speeches:
+    title: Speeches
+    output: true
+  testimonials:
+    title: Testimonials
+    output: true
+    permalink: "/consumers/testimonials/:collection/:name/"
   uploads:
     title: Uploads (Media & Files)
     output: true
