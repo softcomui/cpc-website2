@@ -8,9 +8,6 @@ collections:
   announcements:
     title: Announcements
     output: true
-  brochure:
-    title: Brochure
-    output: true
   businesses:
     title: Businesses
     output: true
