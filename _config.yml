@@ -15,9 +15,6 @@ collections:
     title: Businesses
     output: true
     permalink: "/businesses/:collection/:name/"
-  blog:
-    title: Consumer Blog
-    output: true
   education:
     title: Consumer Education Materials
     output: true
@@ -46,10 +43,6 @@ collections:
     title: Our People
     output: true
     permalink: "/about/:collection/:name/"
-  partners:
-    title: Partners
-    output: true
-    permalink: "/about/partners/:collection/:name/"
   posts:
     title: Posts
     output: true
