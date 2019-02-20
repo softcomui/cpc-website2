@@ -15,9 +15,6 @@ collections:
     title: Businesses
     output: true
     permalink: "/businesses/:collection/:name/"
-  gallery:
-    title: Gallery
-    output: true
   how-tos:
     title: How-Tos
     output: true
