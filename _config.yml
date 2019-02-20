@@ -18,17 +18,10 @@ collections:
   education:
     title: Consumer Education Materials
     output: true
-  cpa:
-    title: Consumer Protection Alliances
-    output: true
   consumers:
     title: Consumers
     output: true
     permalink: "/consumers/:collection/:name/"
-  departments:
-    title: Departments and Units
-    output: true
-    permalink: "/about/departments/:collection/:name/"
   events:
     title: Events
     output: true
