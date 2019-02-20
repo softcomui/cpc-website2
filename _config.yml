@@ -12,10 +12,6 @@ collections:
     title: Publications
     output: true
     permalink: "/publications/:collection/:name/"
-  documents:
-    title: Relevant Documents
-    output: true
-    permalink: "/ngos/:collection/:name/"
   uploads:
     title: Uploads (Media & Files)
     output: true
