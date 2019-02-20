@@ -1,16 +1,6 @@
 ---
 title: Consumer Protection Council
-shortname: cpc
-legal_tag: The Council
-description: CPC is the apex consumer protection agency in Nigeria established to
-  improve the well-being of the people.
-
-url: http://cpc.gov.ng
-
-charset: utf-8
-
 timezone: Pacific/Pago_Pago
-
 collections:
   alerts:
     title: Alerts & Advisory
@@ -153,7 +143,12 @@ defaults:
   values:
     permalink: "/:collection/:title/"
     is_gallery: true
-
+shortname: cpc
+legal_tag: The Council
+description: CPC is the apex consumer protection agency in Nigeria established to
+  improve the well-being of the people.
+url: http://cpc.gov.ng
+charset: utf-8
 pagination:
   enabled: true
   permalink: "/:num/"
@@ -221,7 +216,6 @@ autopages:
 sass:
   sass_dir: _sass
   style: compressed
-  
 exclude:
 - node_modules
 - vendor/bundle/
