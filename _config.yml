@@ -26,10 +26,6 @@ collections:
     title: Publications
     output: true
     permalink: "/publications/:collection/:name/"
-  regulators:
-    title: Regulators
-    output: true
-    permalink: "/about/regulators/:collection/:name/"
   releases:
     title: Releases
     output: true
