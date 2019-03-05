@@ -75,55 +75,55 @@ if (contentImages) {
     })
 }
 
-function fetchData() {
-    const testimonials = document.getElementById("testimonials")
-    const homeTestimonials = document.getElementById("home-testimonials")
+// function fetchData() {
+//     const testimonials = document.getElementById("testimonials")
+//     const homeTestimonials = document.getElementById("home-testimonials")
 
 
-    fetch("http://63.32.180.41:8804/v1/noauth/testimonials")
-        .then(response => response.json())
-        .then(res => {
-            let output = ``
-            let data = res.data;
-            // console.log(res)
-            if (testimonials) {
-                data.forEach(testimonial => {
-                    output += `<div>
-                    <h4>${testimonial.user.firstName} ${testimonial.user.lastName}</h4>
-                    <p>${testimonial.message}</p>
-                    </div>`
+//     fetch("http://63.32.180.41:8804/v1/noauth/testimonials")
+//         .then(response => response.json())
+//         .then(res => {
+//             let output = ``
+//             let data = res.data;
+//             // console.log(res)
+//             if (testimonials) {
+//                 data.forEach(testimonial => {
+//                     output += `<div>
+//                     <h4>${testimonial.user.firstName} ${testimonial.user.lastName}</h4>
+//                     <p>${testimonial.message}</p>
+//                     </div>`
 
-                    testimonials.innerHTML = output;
-                })
-            }
-            if (homeTestimonials) {
-                data.forEach(testimonial => {
-                    output += `<li class="carousel-cell p-2 d-flx fd-c j-c-c tx-c">
-                        <p>${testimonial.message}</p>
-                        <h4 class="m-0">${testimonial.user.firstName} ${testimonial.user.lastName}</h4>
-                    </li>`
+//                     testimonials.innerHTML = output;
+//                 })
+//             }
+//             if (homeTestimonials) {
+//                 data.forEach(testimonial => {
+//                     output += `<li class="carousel-cell p-2 d-flx fd-c j-c-c tx-c">
+//                         <p>${testimonial.message}</p>
+//                         <h4 class="m-0">${testimonial.user.firstName} ${testimonial.user.lastName}</h4>
+//                     </li>`
 
-                    homeTestimonials.innerHTML = output;
-                    // homeTestimonials.setAttribute('data-flickity', '{ "autoPlay": 4000, "contain": true, "prevNextButtons": true, "pageDots": false, "wrapAround": true}')
-                })
+//                     homeTestimonials.innerHTML = output;
+//                     // homeTestimonials.setAttribute('data-flickity', '{ "autoPlay": 4000, "contain": true, "prevNextButtons": true, "pageDots": false, "wrapAround": true}')
+//                 })
 
-                var flic = new Flickity(homeTestimonials, {
-                    "autoPlay": 4000,
-                    "contain": true,
-                    "prevNextButtons": true,
-                    "pageDots": false,
-                    "wrapAround": true
-                });
+//                 var flic = new Flickity(homeTestimonials, {
+//                     "autoPlay": 4000,
+//                     "contain": true,
+//                     "prevNextButtons": true,
+//                     "pageDots": false,
+//                     "wrapAround": true
+//                 });
 
-                flic()
-            }
+//                 flic();
+//             }
 
-        })
-        .catch(error => console.log(error))
+//         })
+//         .catch(error => console.log(error))
 
 
-}
+// }
 
-fetchData()
+// fetchData()
 
     // alert('oi')
