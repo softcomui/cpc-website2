@@ -129,13 +129,13 @@ layout: default
                 </div>
             {% endif %}
             {% if page.title == "Testimonials" %}
-                <div class="grid is-multi-col py-1 mostly-2">
-                    {% for item in site.testimonials %}
+                <div id="testimonials" class="grid is-multi-col py-1 mostly-2">
+                    <!-- {% for item in site.testimonials %}
                         <div>
                             <h4>{{ item.name }}</h4>
                             <p>{{ item.text }}</p>
                         </div>
-                    {% endfor %}
+                    {% endfor %} -->
                 </div>
             {% endif %}
             {% if page.title == "Contact" %}
@@ -212,9 +212,3 @@ layout: default
     </div>
     {% endfor %}
 {% endif %}
-
- <!-- {% assign rights = site.publications | where: "pbor", "true" %} 
- {% for item in rights %}
-<iframe width="30%" src="{{ item.link }}" frameborder="0">
-</iframe>
-{% endfor %} -->
