@@ -8,7 +8,7 @@ main: "The Department of Administration and Human Resources manages the administ
   day to day operations of the department include file archiving, managing correspondence
   and supplies. The department is also the channel between the top leadership of the
   Council and other employees including developing strategy to communicate vision,
-  policy and direction of leadership, securing adoption and implementation."
+  policy and direction of leadership, securing adoption and implementation"
 layout: page
 ---
 
