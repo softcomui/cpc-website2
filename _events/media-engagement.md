@@ -4,11 +4,11 @@ date: 2017-11-30 12:00:00 -11:00
 event_date: 2017-11-30 00:00:00 -11:00
 image: "/uploads/engage-02.jpg"
 event_number: 2
-caption: Babatunde Irukera, Director General, Federal Competition and Consumer Protection Commission (FCCPC) speaking
-  during the Council’s strategic engagement with Directors, Business and News Editors
-  of media houses, while Director, News, Federal Radio Corporation of Nigeria (FRCN),
-  Sani Suleiman and Director, Consumer Education FCCPC, Mrs. Mopelola Akeju listen with
-  rapt attention.
+caption: Babatunde Irukera, Director General, Federal Competition and Consumer Protection
+  Commission (FCCPC) speaking during the Council’s strategic engagement with Directors,
+  Business and News Editors of media houses, while Director, News, Federal Radio Corporation
+  of Nigeria (FRCN), Sani Suleiman and Director, Consumer Education FCCPC, Mrs. Mopelola
+  Akeju listen with rapt attention.
 ---
 
 The Federal Competition and Consumer Protection Commission (FCCPC) had a strategic engagement with the media as part of its desire to forge a stronger partnership with the media for a virile consumer protection regime in Nigeria.

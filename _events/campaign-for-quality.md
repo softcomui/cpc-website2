@@ -4,12 +4,12 @@ date: 2018-01-29 12:00:00 -11:00
 image: "/uploads/lagos-quality-01.jpg"
 Event Date: 2018-01-29 12:00:00 -11:00
 event_number: 2
-caption: 'L-R: Director General, Federal Competition and Consumer Protection Commission (FCCPC), Babatunde Irukera;
-  His Excellency, Governor Akinwumi Ambode of Lagos State and Commissioner for Commerce
-  and Industry, Lagos State, Mr. Rotimi Ogunleye during the DG’s visit to the Governor,
-  to formally inform him of the launch of the National Campaign and Advocacy for Quality
-  in Nigeria, being done in partnership with United Nations Industrial Organisation
-  (UNIDO), in Lagos State.'
+caption: 'L-R: Director General, Federal Competition and Consumer Protection Commission
+  (FCCPC), Babatunde Irukera; His Excellency, Governor Akinwumi Ambode of Lagos State
+  and Commissioner for Commerce and Industry, Lagos State, Mr. Rotimi Ogunleye during
+  the DG’s visit to the Governor, to formally inform him of the launch of the National
+  Campaign and Advocacy for Quality in Nigeria, being done in partnership with United
+  Nations Industrial Organisation (UNIDO), in Lagos State.'
 ---
 
 The Lagos State Governor, Akinwunmi Ambode, has said the Lagos State Government is ready to work with the Federal Competition and Consumer Protection Commission (FCCPC) to ensure that Nigerian consumers get quality value from products and services they pay for.

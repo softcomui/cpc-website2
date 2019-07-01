@@ -1,5 +1,6 @@
 ---
-title: Speech of the Director General FCCPC Mr Babatunde Irukera at the Launch of the PBoR
+title: Speech of the Director General FCCPC Mr Babatunde Irukera at the Launch of
+  the PBoR
 date: 2017-07-31 12:00:00 -11:00
 document: "/uploads/files/dg-pbor-speech-welcome-address.pdf"
 ---

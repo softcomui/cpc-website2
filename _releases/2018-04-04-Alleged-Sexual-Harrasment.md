@@ -2,7 +2,8 @@
 title: Alleged Sexual Harassment of a Student by a Lecturer at the Obafemi Awolowo
   University
 date: 2018-04-29 12:00:00 -11:00
-act: Pursuant to Section 2(f)(i) of the Federal Competition and Consumer Protection Commission Act
+act: Pursuant to Section 2(f)(i) of the Federal Competition and Consumer Protection
+  Commission Act
 document: "/uploads/releases/oau.png"
 ---
 

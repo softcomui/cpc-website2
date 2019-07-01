@@ -1,6 +1,6 @@
 ---
-title: FCCPC, online marketing coys streamline operational principles for enhanced consumer
-  confidence
+title: FCCPC, online marketing coys streamline operational principles for enhanced
+  consumer confidence
 date: 2018-03-14 12:00:00 -11:00
 document: "/uploads/releases/online-marketing.jpg"
 ---

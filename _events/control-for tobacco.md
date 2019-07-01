@@ -7,10 +7,11 @@ image: "/uploads/tobacco-01.jpg"
 event_number: 2
 caption: 'West Africa Sub-Regional Coordinator, Campaign for Tobacco-free Kids, Mrs.
   Hilda Ochefu (second left), presenting a customized T-Shirt to the Director General
-  Federal Competition and Consumer Protection Commission (FCCPC), Babatunde Irukera. Also, in the picture are,
-  Deputy Executive Director, Environmental Rights Action, Mr. Akinbode Oluwafemi (left),
-  Director, Surveillance and Enforcement Department, FCCPC, Mrs. Leke Ogundipe (second
-  right), and Director, Consumer Education, FCCPC, Mrs. Mopelola Akeju.    '
+  Federal Competition and Consumer Protection Commission (FCCPC), Babatunde Irukera.
+  Also, in the picture are, Deputy Executive Director, Environmental Rights Action,
+  Mr. Akinbode Oluwafemi (left), Director, Surveillance and Enforcement Department,
+  FCCPC, Mrs. Leke Ogundipe (second right), and Director, Consumer Education, FCCPC,
+  Mrs. Mopelola Akeju.    '
 ---
 
 The Federal Competition and Consumer Protection Commission (FCCPC) has assured stakeholders that it will ensure all interests are balanced in the enforcement of the provisions of the National Tobacco Control Act 2015, for the protection of consumers.

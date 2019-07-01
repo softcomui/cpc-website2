@@ -1,6 +1,6 @@
 ---
-title: FCCPC welcomes increase in excise duty on tobacco, alcoholic products, says it’s
-  control to abuse
+title: FCCPC welcomes increase in excise duty on tobacco, alcoholic products, says
+  it’s control to abuse
 date: 2018-03-12 12:00:00 -11:00
 ---
 

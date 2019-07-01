@@ -1,6 +1,6 @@
 ---
-title: FCCPC, in collaboration with Federal Ministry of Health, launches Patients’ Bill
-  of Rights (PBoR)
+title: FCCPC, in collaboration with Federal Ministry of Health, launches Patients’
+  Bill of Rights (PBoR)
 date: 2018-07-31 00:00:00 -11:00
 event_date: 2018-08-14 00:00:00 -11:00
 image: "/uploads/pbor.10.jpg"
@@ -9,12 +9,12 @@ caption: His Excellency, the Vice President, Prof. Yemi Osinbajo (middle), the H
   Minister of Health, Prof. Isaac Adewole (third left), the Honourable Minister of
   State, Federal Ministry of Health, Dr. Osagie Ehanire (second left), Chairman, Technical
   Committee of the Patients’ Bill of Rights (PBoR), Dr.Ben Anyene (left), the Director
-  General, Federal Competition and Consumer Protection Commission, Babatunde Irukera (fourth from right), the
-  Chairman, Governing Board of the Federal Competition and Consumer Protection Commission, Barr. Emeka Nwankpa
-  (third from right), the country representative of the World Health Organisation
-  (WHO), Dr. Rex Mpazanje (second from right), and member, House of Representative,
-  Honourable Solomon Maren, representing the Chairman, House Committee on Commerce,
-  Hon. Sylvester Ogbaga.
+  General, Federal Competition and Consumer Protection Commission, Babatunde Irukera
+  (fourth from right), the Chairman, Governing Board of the Federal Competition and
+  Consumer Protection Commission, Barr. Emeka Nwankpa (third from right), the country
+  representative of the World Health Organisation (WHO), Dr. Rex Mpazanje (second
+  from right), and member, House of Representative, Honourable Solomon Maren, representing
+  the Chairman, House Committee on Commerce, Hon. Sylvester Ogbaga.
 ---
 
 The Federal Competition and Consumer Protection Commission (FCCPC) and the Federal Ministry of Health launched the Patients’ Bill of Rights (PBoR) on Tuesday, July 31, 2018, at the Banquet Hall, State House, Abuja. The event was hosted by His Excellency, the Vice President of Nigeria, Prof. Yemi Osinbajo, SAN, GCON, who was also the Keynote Speaker and the Chief Launcher of the PBoR. 

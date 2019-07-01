@@ -1,6 +1,6 @@
 ---
-title: FCCPC, NAFDAC CEOs discuss collaboration against  counterfeit, adulteration of
-  food, drugs
+title: FCCPC, NAFDAC CEOs discuss collaboration against  counterfeit, adulteration
+  of food, drugs
 date: 2018-02-24 12:00:00 -11:00
 ---
 

@@ -5,11 +5,12 @@ date: 2018-05-13 12:00:00 -11:00
 event_date: 2018-05-13 12:00:00 -11:00
 image: "/uploads/bill-02.jpg"
 event_number: 2
-caption: Director General, Federal Competition and Consumer Protection Commission (FCCPC), Babatunde Irukera (right)
-  speaking on the proposed Patients’ Bill of Rights, during his visit to the Honourable
-  Minister of Health, Professor Isaac Adewole (2nd right). Others in the picture are
-  President, Nigerian Medical Association (NMA), Dr. Francis Faduyile (2nd left) and
-  Director, Hospital Services, Federal Ministry of Health, Dr. Omale Amedu (left).
+caption: Director General, Federal Competition and Consumer Protection Commission
+  (FCCPC), Babatunde Irukera (right) speaking on the proposed Patients’ Bill of Rights,
+  during his visit to the Honourable Minister of Health, Professor Isaac Adewole (2nd
+  right). Others in the picture are President, Nigerian Medical Association (NMA),
+  Dr. Francis Faduyile (2nd left) and Director, Hospital Services, Federal Ministry
+  of Health, Dr. Omale Amedu (left).
 ---
 
 The Minister of Health, Professor Isaac Adewole, has acclaimed the draft Patients’ Bill of Rights (PBoR), initiated and developed under the leadership of the Federal Competition and Consumer Protection Commission (FCCPC). The broad and comprehensive statement of rights of patients, their responsibilities, and obligations of healthcare providers is the largest step quite yet, to protect patients, and ensure the highest level of ethical conduct by healthcare professionals, as well as, enhance the quality and standard of care in the healthcare sector.

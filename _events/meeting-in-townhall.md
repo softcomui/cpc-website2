@@ -5,12 +5,12 @@ date: 2018-03-23 12:00:00 -11:00
 event_date: 2018-03-24 00:00:00 -11:00
 image: "/uploads/townhall-01.jpg"
 event_number: 2
-caption: 'Director General, Federal Competition and Consumer Protection Commission (FCCPC), Babatunde Irukera (right),
-  speaking during the Town Hall meeting on consumer issues in the electricity sector,
-  organized by FCCPC in Bwari, Abuja. Seated (front): Representative of the Managing
-  Director, Nigeria Electricity Management Service Agency (NEMSA), Engineer William
-  Metiete (left) and Commissioner, Consumer Affairs, Nigeria Electricity Regulatory
-  Commission (NERC) Dr. Moses Arigu (second left).'
+caption: 'Director General, Federal Competition and Consumer Protection Commission
+  (FCCPC), Babatunde Irukera (right), speaking during the Town Hall meeting on consumer
+  issues in the electricity sector, organized by FCCPC in Bwari, Abuja. Seated (front):
+  Representative of the Managing Director, Nigeria Electricity Management Service
+  Agency (NEMSA), Engineer William Metiete (left) and Commissioner, Consumer Affairs,
+  Nigeria Electricity Regulatory Commission (NERC) Dr. Moses Arigu (second left).'
 ---
 
 The Director-General, Federal Competition and Consumer Protection Commission (FCCPC), Babatunde Irukera, has said any electricity distribution company that abuses the rights of consumers violates the law.

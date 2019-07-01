@@ -4,9 +4,9 @@ date: 2018-02-27 12:00:00 -11:00
 event_date: 2018-02-27 12:00:00 -11:00
 image: "/uploads/kaduna-02.jpg"
 event_number: 2
-caption: The Federal Competition and Consumer Protection Commission (FCCPC) team and the United Nations Industrial
-  Development Organisation (UNIDO) team, at a mega rally, during the National Quality
-  Campaign, in the city of Zaria.
+caption: The Federal Competition and Consumer Protection Commission (FCCPC) team and
+  the United Nations Industrial Development Organisation (UNIDO) team, at a mega rally,
+  during the National Quality Campaign, in the city of Zaria.
 ---
 
 The Director General of the Federal Competition and Consumer Protection Commission (FCCPC), Babatunde Irukera, has said that it is high time Nigerian consumers began to insist on quality products being sold to them in the market-place.

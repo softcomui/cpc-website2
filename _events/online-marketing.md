@@ -5,12 +5,12 @@ date: 2018-03-14 12:00:00 -11:00
 event_date: 2018-03-15 00:00:00 -11:00
 image: "/uploads/strategic-3.jpg"
 event_number: 2
-caption: "(Right) Director General, Federal Competition and Consumer Protection Commission (FCCPC), Babatunde Irukera,
-  briefing the media after the key intervention strategic engagement with top executives
-  of e-commerce/online trading companies in Nigeria. By his side are, Chief Executive,
-  Park and Shop Departmental Shop, Haresh Keswani (left); Regional Sales Manager,
-  Yudala Limited, Charles Ogbamebo (2nd left); Head of Corporate Governance, Jumia,
-  Oluwaseyi Oni (second right)."
+caption: "(Right) Director General, Federal Competition and Consumer Protection Commission
+  (FCCPC), Babatunde Irukera, briefing the media after the key intervention strategic
+  engagement with top executives of e-commerce/online trading companies in Nigeria.
+  By his side are, Chief Executive, Park and Shop Departmental Shop, Haresh Keswani
+  (left); Regional Sales Manager, Yudala Limited, Charles Ogbamebo (2nd left); Head
+  of Corporate Governance, Jumia, Oluwaseyi Oni (second right)."
 ---
 
 The Federal Competition and Consumer Protection Commission (FCCPC) and senior management of the online marketing companies had a meeting on March 15, 2018 to commemorate the 2018 World Consumer Rights Day, themed “Making the Digital Marketplaces Fairer”.

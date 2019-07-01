@@ -12,8 +12,8 @@ document:
   name: Speech of His Excellency the Vice President Prof Yemi Osinbajo SAN, GCON at
     the Launch of PBoR
 - file: "/uploads/files/speech-of-the-director-general-cpc-at-the-launch-of-the-pbor.pdf"
-  name: Speech of the Director General FCCPC Mr Babatunde Irukera at the Launch of the
-    PBoR
+  name: Speech of the Director General FCCPC Mr Babatunde Irukera at the Launch of
+    the PBoR
 List:
 - title: 
   body: 
