@@ -1,5 +1,5 @@
 ---
-title: CPC calms nerves on Medview's aborted flight incident, says passengers are
+title: FCCPC calms nerves on Medview's aborted flight incident, says passengers are
   in safe hands"
 date: 2018-03-04 12:00:00 -11:00
 ---
@@ -8,6 +8,6 @@ Medview Airlines Flight VL2108 operated by a Boeing 737 equipment with a flight 
 
 Specifically, an indicator lamp signifying a minor disorder emerged.  The Captain, exercising the appropriate abundance of caution and in compliance with applicable safety standards aborted the flight and returned to base for technical assistance.  
 
-All passengers disembarked in an orderly manner, returned to the lounge and were catered to by the airline in accordance with relevant Nigerian Civil Aviation Regulations regarding treatment of passengers during delays. Engineers are currently concluding minor repairs so that the aircraft can become operational.  The flight to Maiduguri is expected to operate shortly, either by same aircraft, or a redundancy/recovery plan that Medview has informed the Consumer Protection Council is in place.
+All passengers disembarked in an orderly manner, returned to the lounge and were catered to by the airline in accordance with relevant Nigerian Civil Aviation Regulations regarding treatment of passengers during delays. Engineers are currently concluding minor repairs so that the aircraft can become operational.  The flight to Maiduguri is expected to operate shortly, either by same aircraft, or a redundancy/recovery plan that Medview has informed the Federal Competition and Consumer Protection Commission is in place.
 
-CPC has been in communication with Medview, and the airline informs that, at no time was there an emergency, and passengers were never at risk. CPC will continue to monitor the situation, and provide updates, if necessary.  
+FCCPC has been in communication with Medview, and the airline informs that, at no time was there an emergency, and passengers were never at risk. FCCPC will continue to monitor the situation, and provide updates, if necessary.  

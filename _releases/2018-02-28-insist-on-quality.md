@@ -1,9 +1,9 @@
 ---
-title: CPC charges consumers to insist on quality products
+title: FCCPC charges consumers to insist on quality products
 date: 2018-02-27 12:00:00 -11:00
 ---
 
-The Director General of the Consumer Protection Council (CPC), Babatunde Irukera, has said that it is high time that Nigerian consumers began to insist on quality products being sold to them in the market-place. 
+The Director General of the Federal Competition and Consumer Protection Commission (FCCPC), Babatunde Irukera, has said that it is high time that Nigerian consumers began to insist on quality products being sold to them in the market-place. 
 
 Irukera made this assertion when he paid a courtesy visit to the Governor of Kaduna State, Mallam Nasir El-Rufai at the Government Office, Kaduna.
 
@@ -15,6 +15,6 @@ Irukera stated that measures were being put in place to stem the influx of fake 
  
 Responding, Governor Nasir El-Rufai, represented by his deputy, Yusuf Bala, said that citizens were not fully aware of the power they possessed as consumers to bring about far reaching changes in the various sectors of the Nigerian economy while praising the director general for embarking on the quality campaign aimed at changing the narrative. 
 
-The CPC boss later had a closed-door session with the state governor before departing Kaduna.
+The FCCPC boss later had a closed-door session with the state governor before departing Kaduna.
 
 Other activities carried out as part of the National Quality Campaign included a visit to the Palace of the Emir of Zazzau, Zaria, a road walk and a town-hall meeting with students of tertiary institutions and youth on the importance of imbibing quality culture as a way of life. 

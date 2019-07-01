@@ -1,7 +1,7 @@
 ---
 title: Releases
 permalink: "/news-events/releases/"
-description: Timely information about CPC activities delivered to you as happens
+description: Timely information about FCCPC activities delivered to you as happens
 layout: news-all
 autopages: 
 pagination:

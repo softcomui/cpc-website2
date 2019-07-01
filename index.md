@@ -1,5 +1,5 @@
 ---
-title: Consumer Protection Council
+title: Federal Competition and Consumer Protection Commission
 layout: home
 ---
 

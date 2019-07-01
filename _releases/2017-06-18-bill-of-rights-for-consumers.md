@@ -1,10 +1,10 @@
 ---
-title: 'CPC, NMA to develop Patients’ Bill of Rights for consumer protection - raise
+title: 'FCCPC, NMA to develop Patients’ Bill of Rights for consumer protection - raise
   joint standing committee for collaboration to enhance standards, care of patients '
 date: 2017-06-17 12:00:00 -11:00
 ---
 
-The Consumer Protection Council (CPC) and the Nigerian Medical Association (NMA) have commenced a process for the formulation of an acceptable Guide to regulate interaction between patients and medical doctors in the country.
+The Federal Competition and Consumer Protection Commission (FCCPC) and the Nigerian Medical Association (NMA) have commenced a process for the formulation of an acceptable Guide to regulate interaction between patients and medical doctors in the country.
 
 The proposed Guide to be known as Patients’ Bill of Rights will identifyrights and privileges in a patient-care giver relationship for the protection of consumers.
 
@@ -12,7 +12,7 @@ The Council and the medical association agreed to develop this Guide when the Pr
 
 A Standing Committee, drawing membership from the association and the consumer protection agency, was created at the meeting to immediately advance the finalisation of the document and to expand key areas of collaboration for the promotion of high standards of care and patients’ protection.
 
-Speaking during the visit, CPC’s director general said it is imperative that the two organisations collaborate and jointly disseminate these rights to consumers to promote higher and safer healthcare standards.
+Speaking during the visit, FCCPC’s director general said it is imperative that the two organisations collaborate and jointly disseminate these rights to consumers to promote higher and safer healthcare standards.
 
 Irukera said: “We need to ensure people know their rights - the right to information, proper explanation of their medical situation in a language they understand; the right to control decision-making with respect to their treatment regiment; the right to know when to, where to and how to secure a second opinion, if desired”.
 
@@ -26,6 +26,6 @@ He added: “It is tragic that doctors can go on strike. I recognise the fundame
 
 The director general also raised the possibility of the association establishing a Victims’ Compensation Fund from which aggrieved patients or their families may receive some succour for professional malpractice.
 
-The NMA President also called on CPC to support re-orientation retreats for the association’s members and other health workers in order to remind them of their sworn oath, which he said “the trends in the society are fast eroding on a continuous basis”.
+The NMA President also called on FCCPC to support re-orientation retreats for the association’s members and other health workers in order to remind them of their sworn oath, which he said “the trends in the society are fast eroding on a continuous basis”.
 
-Similarly, Professor Ogirima also thanked and sought CPC support with respect to the on-going advocacy to make health insurance universal and compulsory.
+Similarly, Professor Ogirima also thanked and sought FCCPC support with respect to the on-going advocacy to make health insurance universal and compulsory.

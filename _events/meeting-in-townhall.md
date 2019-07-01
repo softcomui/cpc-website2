@@ -1,19 +1,19 @@
 ---
 title: Any electricity distribution company that undermines consumer rights violates
-  the law – CPC
+  the law – FCCPC
 date: 2018-03-23 12:00:00 -11:00
 event_date: 2018-03-24 00:00:00 -11:00
 image: "/uploads/townhall-01.jpg"
 event_number: 2
-caption: 'Director General, Consumer Protection Council (CPC), Babatunde Irukera (right),
+caption: 'Director General, Federal Competition and Consumer Protection Commission (FCCPC), Babatunde Irukera (right),
   speaking during the Town Hall meeting on consumer issues in the electricity sector,
-  organized by CPC in Bwari, Abuja. Seated (front): Representative of the Managing
+  organized by FCCPC in Bwari, Abuja. Seated (front): Representative of the Managing
   Director, Nigeria Electricity Management Service Agency (NEMSA), Engineer William
   Metiete (left) and Commissioner, Consumer Affairs, Nigeria Electricity Regulatory
   Commission (NERC) Dr. Moses Arigu (second left).'
 ---
 
-The Director-General, Consumer Protection Council (CPC), Babatunde Irukera, has said any electricity distribution company that abuses the rights of consumers violates the law.
+The Director-General, Federal Competition and Consumer Protection Commission (FCCPC), Babatunde Irukera, has said any electricity distribution company that abuses the rights of consumers violates the law.
 
 Irukera said this on Saturday, March 24, 2018 in Bwari, a satellite town in the Federal Capital Territory, during a Town Hall meeting on electricity distribution, organised by the Council, for residents of the area and its environs.
 

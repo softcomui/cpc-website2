@@ -1,5 +1,5 @@
 ---
-title: Consumer Protection Council
+title: Federal Competition and Consumer Protection Commission
 timezone: Pacific/Pago_Pago
 collections:
   alerts:
@@ -143,9 +143,9 @@ defaults:
   values:
     permalink: "/:collection/:title/"
     is_gallery: true
-shortname: cpc
+shortname: FCCPC
 legal_tag: The Council
-description: CPC is the apex consumer protection agency in Nigeria established to
+description: FCCPC is the apex consumer protection agency in Nigeria established to
   improve the well-being of the people.
 url: http://cpc.gov.ng
 charset: utf-8
@@ -159,13 +159,13 @@ actions:
   subpages:
   - name: File a Complaint
     link: http://user.cpc.gov.ng/signin
-    text: Filing a complaint will help CPC to serve you better.
+    text: Filing a complaint will help FCCPC to serve you better.
   - name: Leave a Review
     link: http://user.cpc.gov.ng/signin
     text: Your reviews can help businesses know how they are performing.
   - name: Track a Complaint
     link: http://user.cpc.gov.ng/signin
-    text: Keep track of your complaints and account with CPC.
+    text: Keep track of your complaints and account with FCCPC.
   - name: Know your rights
     link: "/consumers/rights"
     text: Know your rights and responsibilities as a consumer.
