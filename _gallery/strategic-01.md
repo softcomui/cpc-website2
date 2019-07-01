@@ -1,5 +1,5 @@
 ---
-title: "(Right) Director General, Consumer Protection Council (CPC), Babatunde Irukera,
+title: "(Right) Director General, Federal Competition and Consumer Protection Commission (FCCPC), Babatunde Irukera,
   during a key intervention strategic engagement with top executives of e-commerce/online
   trading companies in Nigeria. Seated from left are: Head of Corporate Governance,
   Jumia, Oluwaseyi Oni; Director of Public Affairs, Evansville Industries e-farmers

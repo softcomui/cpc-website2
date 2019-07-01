@@ -2,11 +2,11 @@
 title: Alleged Sexual Harassment of a Student by a Lecturer at the Obafemi Awolowo
   University
 date: 2018-04-29 12:00:00 -11:00
-act: Pursuant to Section 2(f)(i) of the Consumer Protection Council Act
+act: Pursuant to Section 2(f)(i) of the Federal Competition and Consumer Protection Commission Act
 document: "/uploads/releases/oau.png"
 ---
 
-The Consumer Protection Council (CPC) has keenly followed a raging controversy regarding the sexually and emotionally abusive conduct of demanding, and or providing sexual gratification in exchange for favourable grades in school.
+The Federal Competition and Consumer Protection Commission (FCCPC) has keenly followed a raging controversy regarding the sexually and emotionally abusive conduct of demanding, and or providing sexual gratification in exchange for favourable grades in school.
 
 Although the widely discussed controversy underscores an allegedly pervasive practice, the current specific subject of discussion now, is a leaked and widely circulated audio clip that appeared to have captured a telephonic conversation or “negotiation” between a female student and a member of faculty at Obafemi Awolowo University (OAU), Ile Ife. The audio clip has been authenticated and both the member of faculty and student/victim identified.
 

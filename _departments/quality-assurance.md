@@ -17,7 +17,7 @@ main: "The Quality Assurance and Development Department is responsible for asses
   of this, QAD is leading the effort within the Council in partnering with donor entities
   on nationwide quality projects such as the Nigerian Quality Infrastructure Programme
   (NQIP) of the United Nations Industrial Development Organization (UNIDO), including
-  nurturing the emerging CPC standards and certifications training institution/centre.\n"
+  nurturing the emerging FCCPC standards and certifications training institution/centre.\n"
 layout: page
 ---
 

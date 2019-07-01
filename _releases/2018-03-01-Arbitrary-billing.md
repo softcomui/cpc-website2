@@ -1,10 +1,10 @@
 ---
 title: Arbitrary billing, group disconnection of electricity consumers constitute
-  gross consumer abuse - CPC raps DISCOs
+  gross consumer abuse - FCCPC raps DISCOs
 date: 2018-02-28 12:00:00 -11:00
 ---
 
-The Consumer Protection Council (CPC) has appraised the interaction between the nation’s electricity distribution companies (DISCOs) and their consumers, declaring that arbitrary billing and group disconnection of electricity consumers without consideration for those paying their bills constitute a gross abuse of consumer rights.
+The Federal Competition and Consumer Protection Commission (FCCPC) has appraised the interaction between the nation’s electricity distribution companies (DISCOs) and their consumers, declaring that arbitrary billing and group disconnection of electricity consumers without consideration for those paying their bills constitute a gross abuse of consumer rights.
 
 The Director General of the Council, Babatunde Irukera, said these in Abuja, at a meeting with the top management of Abuja Electricity Distribution Company (AEDC) led by its Managing Director, Engineer Ernest Mupwaya. The Director General noted that the vast majority of complaints in the sector are these two issues.
 
@@ -25,7 +25,7 @@ He stated: “You see people who are complaining about supply because they, as i
 
 “For me, there’s something fundamentally, absolutely irreparable and inexcusably wrong with penalising people because of the conduct of others. It is just not excusable. Government should never do that to its people. But if government does it as a state actor, as inexcusable as it is, it might even be permissible. But one person who has absolutely no right and should never have the prerogative to do it is a private citizen to another private citizen. And that is what DISCOs do. They group-disconnect consumers. If there’s one responsible consumer who is being disconnected unjustly, what you are doing is that you are discouraging responsibility”, he added.
 
-The CPC boss observed that group disconnection is antithetical to the promotion of an enabling environment for investment, stressing that it “is the quintessential case for mistreatment of an otherwise responsible consumer”.
+The FCCPC boss observed that group disconnection is antithetical to the promotion of an enabling environment for investment, stressing that it “is the quintessential case for mistreatment of an otherwise responsible consumer”.
 
 Earlier, the AEDC managing director had spoken of the need for the company to have a cost reflective tariff for it to have a seamless and a more robust operation, stressing that fluctuation in foreign exchange rates and inflation impact on its activities.
 

@@ -1,10 +1,10 @@
 ---
 title: Any electricity distribution company that undermines consumer rights violates
-  the law - CPC
+  the law - FCCPC
 date: 2018-02-28 12:00:00 -11:00
 ---
 
-The Director-General, Consumer Protection Council (CPC), Babatunde Irukera, has said any electricity distribution company that abuses the rights of consumers violates the law.
+The Director-General, Federal Competition and Consumer Protection Commission (FCCPC), Babatunde Irukera, has said any electricity distribution company that abuses the rights of consumers violates the law.
 
 Irukera said this on Saturday, March 24, 2018 in Bwari, a satellite town in the Federal Capital Territory, during a Town Hall meeting on electricity distribution in the country, organised by the Council for residents of the area and its environs.
 

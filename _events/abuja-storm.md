@@ -1,12 +1,12 @@
 ---
-title: CPC Shuts down Abuja Factory over Underweight Products and Unhygienic Environment
+title: FCCPC Shuts down Abuja Factory over Underweight Products and Unhygienic Environment
 date: 2018-04-15 12:00:00 -11:00
 event_date: 2018-04-16 00:00:00 -11:00
 image: "/uploads/abuja-02.png"
 event_number: 2
-caption: 'CPC uncovers sharp practices and non-conformity with Good Manufacturing
+caption: 'FCCPC uncovers sharp practices and non-conformity with Good Manufacturing
   Practice (GMP), Good Hygiene Practice (GHP) and Good Storage Practice (GSP) during
-  the inspection of a corn flour factory in Piwoyi, Airport Road, Abuja. CPC evacuates
+  the inspection of a corn flour factory in Piwoyi, Airport Road, Abuja. FCCPC evacuates
   the products, pending the implementation of all corrective measures issued to the
   company. '
 ---

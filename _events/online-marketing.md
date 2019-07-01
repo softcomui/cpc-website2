@@ -1,11 +1,11 @@
 ---
-title: CPC, online marketing companies streamline operational principles for enhanced
+title: FCCPC, online marketing companies streamline operational principles for enhanced
   consumer confidence
 date: 2018-03-14 12:00:00 -11:00
 event_date: 2018-03-15 00:00:00 -11:00
 image: "/uploads/strategic-3.jpg"
 event_number: 2
-caption: "(Right) Director General, Consumer Protection Council (CPC), Babatunde Irukera,
+caption: "(Right) Director General, Federal Competition and Consumer Protection Commission (FCCPC), Babatunde Irukera,
   briefing the media after the key intervention strategic engagement with top executives
   of e-commerce/online trading companies in Nigeria. By his side are, Chief Executive,
   Park and Shop Departmental Shop, Haresh Keswani (left); Regional Sales Manager,
@@ -13,7 +13,7 @@ caption: "(Right) Director General, Consumer Protection Council (CPC), Babatunde
   Oluwaseyi Oni (second right)."
 ---
 
-The Consumer Protection Council (CPC) and senior management of the online marketing companies had a meeting on March 15, 2018 to commemorate the 2018 World Consumer Rights Day, themed “Making the Digital Marketplaces Fairer”.
+The Federal Competition and Consumer Protection Commission (FCCPC) and senior management of the online marketing companies had a meeting on March 15, 2018 to commemorate the 2018 World Consumer Rights Day, themed “Making the Digital Marketplaces Fairer”.
 
 The meeting focused on the current consumer experience in the online shopping marketplace. The particular concern that was the subject of discussion was, protecting consumers as well as protecting legitimate and responsible online marketing companies and their brands. Both the Council and the online marketing companies agreed that only a robust, ethical and well-regulated industry can promote consumer confidence and eliminate distrust; prevent fraud and market entry by those who seek to exploit and defraud. Parties also recognized that technological disruption and innovation remain a vital catalyst for economic expansion, commercial penetration and shared prosperity. As such, the Council and online marketing companies acknowledged that clear and transparent guiding principles, guidance and a regulatory framework are important to growing and sustaining a vibrant e-commerce industry. The Council and the online marketing companies adopted certain guiding principles with respect to e-commerce.
 

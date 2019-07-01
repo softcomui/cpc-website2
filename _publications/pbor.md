@@ -1,7 +1,7 @@
 ---
 title: Patients’ Bill of Rights
 permalink: "/publications/PBOR/"
-name: Babatunde Irukera, DG, CPC.
+name: Babatunde Irukera, DG, FCCPC.
 is-pbor: true
 document:
 - file: "/uploads/files/patients-bill-of-rights-full-version.pdf"
@@ -12,7 +12,7 @@ document:
   name: Speech of His Excellency the Vice President Prof Yemi Osinbajo SAN, GCON at
     the Launch of PBoR
 - file: "/uploads/files/speech-of-the-director-general-cpc-at-the-launch-of-the-pbor.pdf"
-  name: Speech of the Director General CPC Mr Babatunde Irukera at the Launch of the
+  name: Speech of the Director General FCCPC Mr Babatunde Irukera at the Launch of the
     PBoR
 List:
 - title: 

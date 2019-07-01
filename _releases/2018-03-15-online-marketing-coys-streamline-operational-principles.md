@@ -1,11 +1,11 @@
 ---
-title: CPC, online marketing coys streamline operational principles for enhanced consumer
+title: FCCPC, online marketing coys streamline operational principles for enhanced consumer
   confidence
 date: 2018-03-14 12:00:00 -11:00
 document: "/uploads/releases/online-marketing.jpg"
 ---
 
-The Consumer Protection Council (CPC) and senior management of the online marketing companies had a meeting on March 15, 2018 to commemorate 2018 World Consumer Rights Day, which has “Making the Digital Marketplaces Fairer” as its theme.
+The Federal Competition and Consumer Protection Commission (FCCPC) and senior management of the online marketing companies had a meeting on March 15, 2018 to commemorate 2018 World Consumer Rights Day, which has “Making the Digital Marketplaces Fairer” as its theme.
 
 The meeting focused on the current consumer experience in the online shopping marketplace. The particular concern that was the subject of discussion was protecting consumers as well as protecting legitimate and responsible online marketing companies and their brands. 
 Both the Council and the online marketing companies agreed that only a robust, ethical and well regulated industry can promote consumer confidence and eliminate distrust; prevent fraud and market entry by those who seek to exploit and defraud.

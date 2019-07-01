@@ -1,5 +1,5 @@
 ---
-title: Babatunde Irukera, DG, CPC (middle), with Georgios Polymenakos, MD, Nigerian
+title: Babatunde Irukera, DG, FCCPC (middle), with Georgios Polymenakos, MD, Nigerian
   Bottling Company (third, left) and Bhupendra Suri, MD, Coca-Cola Nigeria Limited
   (fifth, right) and others, during a courtesy visit of the MDs to the Council's Head
   Office in Abuja.

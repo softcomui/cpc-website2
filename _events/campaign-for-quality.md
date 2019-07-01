@@ -1,10 +1,10 @@
 ---
-title: 'Quality Campaign: LASG pledges readiness to collaborate with CPC'
+title: 'Quality Campaign: LASG pledges readiness to collaborate with FCCPC'
 date: 2018-01-29 12:00:00 -11:00
 image: "/uploads/lagos-quality-01.jpg"
 Event Date: 2018-01-29 12:00:00 -11:00
 event_number: 2
-caption: 'L-R: Director General, Consumer Protection Council (CPC), Babatunde Irukera;
+caption: 'L-R: Director General, Federal Competition and Consumer Protection Commission (FCCPC), Babatunde Irukera;
   His Excellency, Governor Akinwumi Ambode of Lagos State and Commissioner for Commerce
   and Industry, Lagos State, Mr. Rotimi Ogunleye during the DG’s visit to the Governor,
   to formally inform him of the launch of the National Campaign and Advocacy for Quality
@@ -12,9 +12,9 @@ caption: 'L-R: Director General, Consumer Protection Council (CPC), Babatunde Ir
   (UNIDO), in Lagos State.'
 ---
 
-The Lagos State Governor, Akinwunmi Ambode, has said the Lagos State Government is ready to work with the Consumer Protection Council (CPC) to ensure that Nigerian consumers get quality value from products and services they pay for.
+The Lagos State Governor, Akinwunmi Ambode, has said the Lagos State Government is ready to work with the Federal Competition and Consumer Protection Commission (FCCPC) to ensure that Nigerian consumers get quality value from products and services they pay for.
 
-Ambode gave the assurance during a visit to the Lagos House in Alausa, Ikeja, by a delegation of the CPC, and top officials of the Nigerian Association of Chambers of Commerce, Industry, Mines and Agriculture (NACCIMA), and the United Nations Industrial Development Organisation (UNIDO), led by the Director-General of CPC, Babatunde Irukera.
+Ambode gave the assurance during a visit to the Lagos House in Alausa, Ikeja, by a delegation of the FCCPC, and top officials of the Nigerian Association of Chambers of Commerce, Industry, Mines and Agriculture (NACCIMA), and the United Nations Industrial Development Organisation (UNIDO), led by the Director-General of FCCPC, Babatunde Irukera.
 
 He said his administration had set up the Lagos State Consumer Protection Agency (LASCOPA) to complement the efforts of the Council in protecting Nigerian consumers against unwholesome products and services.
 
