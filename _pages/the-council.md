@@ -1,5 +1,5 @@
 ---
-title: The Council
+title: The Commission
 permalink: "/about/council/"
 show_on_about: true
 summary: Federal Competition and Consumer Protection Commission (FCCPC) is the apex
