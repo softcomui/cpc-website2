@@ -4,8 +4,8 @@ mainnav:
 - section: About Us
   url: "/about/"
   pages:
-  - page: The Council
-    url: "/about/council/"
+  - page: The Commission
+    url: "/about/commission/"
   - page: What We Do
     url: "/about/what-we-do/"
   - page: Strategic Goals
