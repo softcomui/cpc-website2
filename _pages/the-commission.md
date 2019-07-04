@@ -1,6 +1,6 @@
 ---
 title: The Commission
-permalink: "/about/council/"
+permalink: "/about/commission/"
 show_on_about: true
 summary: Federal Competition and Consumer Protection Commission (FCCPC) is the apex
   consumer protection agency in Nigeria. The overall mandate of the Council is to
