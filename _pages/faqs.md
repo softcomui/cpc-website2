@@ -56,7 +56,7 @@ List:
     to court. In the event that the resolution offered by FCCPC does not satisfy the
     complainant, he/she may choose to proceed to court.
 - title: Are there companies, organizations or persons that cannot be invited, summoned,
-    ordered or prosecuted by the Council where consumer rights are abused?
+    ordered or prosecuted by the Commission where consumer rights are abused?
   body: No, except they are exempted by relevant laws.
 - title: What steps does FCCPC take to ensure compliance of its Summons and Orders?
   body: In a few cases where there is disobedience, these are referred to the Office
@@ -64,13 +64,13 @@ List:
     These Sections provide for fines and/or imprisonment or both.
 - title: Does FCCPC collaborate with Non-Governmental-Organizations (NGOs) to enhance
     its operations?
-  body: Yes. The Council’s mandate allows it to encourage formation of voluntary consumer
-    NGOs. It registers and collaborates with them in fighting against imperfections
+  body: Yes. The Commission’s mandate allows it to encourage formation of voluntary
+    consumer NGOs. It registers and collaborates with them in fighting against imperfections
     in the market place. NGOs are also deployed to sensitize consumers on their rights
     and responsibilities nationwide.
-- title: How can I register an NGO with the Council?
+- title: How can I register an NGO with the Commission?
   body: |-
-    Step 1: Get the approved guidelines for registration of NGO from the Council.
+    Step 1: Get the approved guidelines for registration of NGO from the Commission.
 
     Step 2: Fill the registration form.
 
@@ -80,15 +80,15 @@ List:
     complain to the manufacturer via their contacts on the package of the drink.\n\nStep
     3: if not satisfied, complain to FCCPC. "
 - title: How can I register a sales promotion?
-  body: "Step 1. Download the sales promotion form from the Council’s website and
+  body: "Step 1. Download the sales promotion form from the Commission’s website and
     fill it as required.\n\nStep 2. Attach all required documentation to support the
     application.\n\nStep 3. Submit the terms and conditions guiding the promotion
     no later than 21 days before the commencement date of the draw.  \n\nPlease note
-    that the Council may grant provisional approval, where it is satisfied that the
-    promotion is: \n1. Legal, decent, honest and faithful \n2. Not designed to abuse
-    consumers’ trust or exploit their lack of knowledge or experience or mislead by
-    ambiguity, exaggeration, omission or otherwise.\n\nPlease refer to the tab For
-    Businesses to receive further information."
+    that the Commission may grant provisional approval, where it is satisfied that
+    the promotion is: \n1. Legal, decent, honest and faithful \n2. Not designed to
+    abuse consumers’ trust or exploit their lack of knowledge or experience or mislead
+    by ambiguity, exaggeration, omission or otherwise.\n\nPlease refer to the tab
+    For Businesses to receive further information."
 - title: What differentiates FCCPC from National Agency for Food & Drug Administration
     & Control (NAFDAC), Standards Organisation of Nigeria (SON) and other sector regulators?
   body: "NAFDAC is a sector specific regulator for food, drugs, cosmetics, medical
@@ -116,7 +116,7 @@ List:
     tests are compared with the requirements of the Nigerian Industrial Standards
     or other relevant international standards to check for conformity. Any product
     that does not conform is regarded as substandard and removed from the market.
-layout: page
 show_on_about: true
+layout: page
 ---
 
