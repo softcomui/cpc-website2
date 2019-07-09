@@ -11,14 +11,14 @@ List:
     consumer education, as well as research and strategy.
 - title: Complaint Resolution
   body: Using different mechanisms, the Commission resolves complaints that are filed
-    with the Commission. Usually, consumer grievances and dissatisfaction are filed
-    with the Commission as “Complaints”. The Commission receives these complaints
-    in diverse ways including online, in-person, in writing, and multiple social media
-    platforms. Most complaints are resolved using one or more of our resolution tools,
-    such as direct engagement, negotiations, mediation, conciliation, investigations,
-    administrative hearings and collaboration with other regulators. Investigations
-    and hearings usually occur when a market intervention becomes compelling, or conduct
-    is egregious or indicative of a pattern or widespread infraction.
+    with it. Usually, consumer grievances and dissatisfaction are filed with the Commission
+    as “Complaints”. The Commission receives these complaints in diverse ways including
+    online, in-person, in writing, and multiple social media platforms. Most complaints
+    are resolved using one or more of our resolution tools, such as direct engagement,
+    negotiations, mediation, conciliation, investigations, administrative hearings
+    and collaboration with other regulators. Investigations and hearings usually occur
+    when a market intervention becomes compelling, or conduct is egregious or indicative
+    of a pattern or widespread infraction.
 - title: Surveillance & Enforcement
   body: A vital tool of protecting consumers is market surveillance, and enforcement
     where violations occur. This component of our work is both random and targeted.
