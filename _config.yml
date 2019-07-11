@@ -144,7 +144,7 @@ defaults:
     permalink: "/:collection/:title/"
     is_gallery: true
 shortname: FCCPC
-legal_tag: The Council
+legal_tag: The Commission
 description: FCCPC is the apex consumer protection agency in Nigeria established to
   improve the well-being of the people.
 url: http://fccpc.gov.ng/
