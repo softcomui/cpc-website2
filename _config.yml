@@ -158,13 +158,13 @@ actions:
 - title: Take Action
   subpages:
   - name: File a Complaint
-    link: http://user.cpc.gov.ng/signin
+    link: http://user.fccpc.gov.ng/signin
     text: Filing a complaint will help FCCPC to serve you better.
   - name: Leave a Review
-    link: http://user.cpc.gov.ng/signin
+    link: http://user.fccpc.gov.ng/signin
     text: Your reviews can help businesses know how they are performing.
   - name: Track a Complaint
-    link: http://user.cpc.gov.ng/signin
+    link: http://user.fccpc.gov.ng/signin
     text: Keep track of your complaints and account with FCCPC.
   - name: Know your rights
     link: "/consumers/rights"
