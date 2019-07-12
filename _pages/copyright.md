@@ -28,4 +28,4 @@ The automated and/or systemic collection of data from this website is prohibited
 
 **Infringing Material**
 
-If you become aware of any material on the website that you believe infringes your or any other person’s copyright, please report this by email to [info@cpc.gov.ng](mailto:info@cpc.gov.ng).
+If you become aware of any material on the website that you believe infringes your or any other person’s copyright, please report this by email to [info@fccpc.gov.ngng](mailto:info@fccpc.gov.ngng).
