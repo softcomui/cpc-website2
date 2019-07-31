@@ -1,5 +1,6 @@
 ---
 title: Mrs. Mopelola Akeju
+published: false
 designation: 'Director,  Quality, Assurance and Development. '
 image: "/uploads/people/akeju.jpg"
 level: Directors
