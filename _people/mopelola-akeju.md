@@ -1,6 +1,6 @@
 ---
 title: Mrs. Mopelola Akeju
-designation: 'Director,  Quality, Assurance and Development. '
+designation: 'Director,  Quality Assurance and Development. '
 image: "/uploads/people/akeju.jpg"
 level: Directors
 rank: 6
