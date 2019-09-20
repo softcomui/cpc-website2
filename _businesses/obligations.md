@@ -21,7 +21,7 @@ main: |
   Notify consumers of any imminent public hazard in their products, and withdraw such products from the market;
 
   Not issue wrongful or deceptive advertisements about a product or service; and
-  Register all sales promotions with the Commission
+  Register all sales promotions with the Commission.
 layout: page
 ---
 
