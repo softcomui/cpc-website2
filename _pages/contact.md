@@ -5,7 +5,8 @@ image: "/uploads/contact.png"
 grid: true
 List:
 - office: KANO OFFICE (KO)
-  address: Room 607 &amp; 608 . 6 th Floor, Federal Secretariat Complex, No. 1 Murtala Mohammed Way, Kano.
+  address: Room 607 &amp; 608 . 6 th Floor, Federal Secretariat Complex, No. 1 Murtala
+    Mohammed Way, Kano.
   contact: '081-4800-7378'
   email: kano@fccpc.gov.ng
 - office: LAGOS OFFICE (LO)
@@ -13,7 +14,8 @@ List:
   contact: '081-4717-0730'
   email: lagos@fccpc.gov.ng
 - office: NORTH-CENTRAL ZONAL OFFICE (NCZO)
-  address: 1 st Floor A6 Abudullahi Kure House, Muazu Mohammed Road, Minna, Niger State.
+  address: 1 st Floor A6 Abudullahi Kure House, Muazu Mohammed Road, Minna, Niger
+    State.
   contact: '081-4717-0734'
   email: northcentral@fccpc.gov.ng
 - office: NORTH-EAST ZONAL OFFICE (NEZO)

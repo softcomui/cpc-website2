@@ -1,5 +1,6 @@
 ---
-title: Recall of certain Ford Fusion, Lincoln and Focus vehicles on account of manufacturing defect
+title: Recall of certain Ford Fusion, Lincoln and Focus vehicles on account of manufacturing
+  defect
 date: 2018-03-18 12:00:00 -11:00
 act: PURSUANT TO SECTIONS 2(b) and 2(c); CONSUMER PROTECTION COUNCIL ACT
 document: "/uploads/releases/ford.png"
