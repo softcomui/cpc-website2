@@ -1,5 +1,5 @@
 ---
-title: federal competition  and consumer protection act
+title: Federal competition  and consumer protection act
 document: ngos
 file: "/uploads/Gazeette05312019135035"
 ---
