@@ -1,10 +1,11 @@
 ---
 title: Mrs. Leke Ogundipe
-layout: person
+published: false
 designation: Director, Surveillance & Enforcement
 image: "/uploads/people/leke.jpg"
 level: Directors
 rank: 3
+layout: person
 ---
 
 Mrs Leke Ogundipe is the Director and head of the Surveillance & Enforcement department. She graduated from the University of Ife in 1980 with a Bachelors degree in Law and was called to the Nigerian Bar in July 1981.
