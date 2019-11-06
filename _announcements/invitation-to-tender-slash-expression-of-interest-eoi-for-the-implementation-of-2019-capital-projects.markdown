@@ -1,0 +1,11 @@
+---
+title: INVITATION TO TENDER/EXPRESSION OF INTEREST (EOI) FOR THE IMPLEMENTATION OF
+  2019 CAPITAL PROJECTS
+date: 2019-11-05 23:53:00 -11:00
+is_announcements:
+- 
+Field name:
+- 
+---
+
+[CAPITAL.pdf](/uploads/CAPITAL.pdf)
