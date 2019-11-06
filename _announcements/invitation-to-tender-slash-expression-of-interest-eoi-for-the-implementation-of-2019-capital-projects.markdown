@@ -12,9 +12,15 @@ The Federal Competition and Consumer Protection Commission (FCCPC) hereby invite
 Category A: Request for Expression of Interest (EOI):
 **CONSULTANCY/NON-CONSULTANCY SERVICES
 LOT NO.	PROJECT DESCRIPTION**
-A1	Development and design of business guidance and consumer education messages in English language 
-A2	Translation and production of developed consumer education messages in Hausa language
-A3	Translation and production of developed consumer education messages in Yoruba language
+A1	Development and design of business guidance and consumer education messages 
+        in English language 
+
+A2	Translation and production of developed consumer education messages in Hausa 
+        language
+
+A3	Translation and production of developed consumer education messages in Yoruba 
+        language
+
 A4	Translation and production of developed consumer education messages in Igbo language
 A5	Translation and production of developed consumer education messages in Pidgin English
 A6	Dissemination and monitoring of translated and produced consumer education messages through different channels with measurable feedback mechanisms
