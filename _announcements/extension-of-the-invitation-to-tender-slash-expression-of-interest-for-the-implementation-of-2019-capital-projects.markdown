@@ -26,5 +26,6 @@ f.	Category B: Only pre-qualified bidders at technical evaluation will be invite
 g.	The Federal Competition and Consumer Protection Commission  (FCCPC) is not bound to shortlist any bidder and reserves the right to annul the Procurement process at any time without incurring any liabilities in accordance with Section 28 of the Public Procurement Act 2007. 
                          
 **SIGNED
+
 CHIEF EXECUTIVE OFFICER**
 
