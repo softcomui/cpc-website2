@@ -1,10 +1,11 @@
 ---
 title: Ifeanyi Chukwujekwu
-layout: person
+published: false
 designation: Director, Finance & Accounts
 image: "/uploads/people/ifeanyi.jpg"
 level: Directors
 rank: 2
+layout: person
 ---
 
 Ifeanyi Chukwujekwu is the Director of the Finance and Accounts Department. Since joining the Council in 2007, he has continued to strengthen the financial reporting systems, implementation of tax laws, and forged beneficial relationships with the relevant institutions and organs of government.
