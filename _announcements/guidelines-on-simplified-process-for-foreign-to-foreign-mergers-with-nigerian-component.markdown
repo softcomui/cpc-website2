@@ -5,4 +5,4 @@ date: 2019-11-13 10:14:00 -11:00
 image: "/uploads/Download%20FCCPC%20Merger%20guidelines%20here.pdf"
 ---
 
-/uploads/Download%20FCCPC%20Merger%20guidelines%20here.pdf
+[uploads/Download%20FCCPC%20Merger%20guidelines%20here.pdf)
