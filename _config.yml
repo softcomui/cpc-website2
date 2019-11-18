@@ -42,13 +42,13 @@ collections:
     title: How-Tos
     output: true
     permalink: "/how-tos/:collection/:name/"
-  single-pages:
-    title: Pages
-    output: true  
   people:
     title: Our People
     output: true
     permalink: "/about/:collection/:name/"
+  single-pages:
+    title: Pages
+    output: true
   partners:
     title: Partners
     output: true
