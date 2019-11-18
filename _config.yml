@@ -42,6 +42,9 @@ collections:
     title: How-Tos
     output: true
     permalink: "/how-tos/:collection/:name/"
+  single-pages:
+    title: Pages
+    output: true  
   people:
     title: Our People
     output: true
@@ -143,6 +146,13 @@ defaults:
   values:
     permalink: "/:collection/:title/"
     is_gallery: true
+- scope:
+    path: ''
+    type: single-pages
+  values:
+    permalink: "/:collection/:name/"
+    image: 
+    is_single-pages: true
 shortname: FCCPC
 legal_tag: The Commission
 description: FCCPC is the apex consumer protection agency in Nigeria established to
