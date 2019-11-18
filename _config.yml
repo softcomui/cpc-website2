@@ -71,6 +71,10 @@ collections:
     title: Relevant Documents
     output: true
     permalink: "/ngos/:collection/:name/"
+  mergers:
+    title: Relevant Merger Documents
+    output: true
+    permalink: "/mergers/:collection/:name/"
   speeches:
     title: Speeches
     output: true
