@@ -3,6 +3,7 @@ title: Contact
 permalink: "/contact/"
 image: "/uploads/contact.png"
 grid: true
+layout: page
 List:
 - office: KANO OFFICE (KO)
   address: Room 607 &amp; 608 . 6 th Floor, Federal Secretariat Complex, No. 1 Murtala

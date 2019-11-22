@@ -1,4 +1,3 @@
----
 title: Federal Competition and Consumer Protection Commission
 timezone: Pacific/Pago_Pago
 collections:
@@ -157,6 +156,7 @@ defaults:
     permalink: "/:collection/:name/"
     image: 
     is_single-pages: true
+    layout: news-single
 shortname: FCCPC
 legal_tag: The Commission
 description: FCCPC is the apex consumer protection agency in Nigeria established to
