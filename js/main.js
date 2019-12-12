@@ -80,7 +80,7 @@ function fetchData() {
     const homeTestimonials = document.getElementById("home-testimonials")
 
 
-    fetch("http://63.32.180.41:8804/v1/noauth/testimonials")
+    fetch("https://cpc-user-api.bluegreensoft.com/v1/noauth/testimonials")
         .then(response => response.json())
         .then(res => {
             let output = ``
