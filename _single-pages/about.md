@@ -1,8 +1,8 @@
 ---
-title: About Us
+title: More About Us
 permalink: "/about/"
-description: Our mission is to provide human and useful answers to tech challenges.
 image: "/uploads/organogram.jpg"
+description: Our mission is to provide human and useful answers to tech challenges.
 headline:
   image: "/uploads/office%20building-7160d5.JPG"
   title: "...established to improve the well-being of Nigerians..."
