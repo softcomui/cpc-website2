@@ -28,6 +28,9 @@ collections:
     title: Consumers
     output: true
     permalink: "/consumers/:collection/:name/"
+  contact:
+    title: Contact
+    output: true
   departments:
     title: Departments and Units
     output: true
