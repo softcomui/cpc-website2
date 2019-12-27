@@ -38,6 +38,8 @@ The Commission hereby provides this guidance pursuant to S. 18 (2) FCCPA and pro
 In addition to the provisions above, such assessments may be in violation of other extant provisions and law, including S. 129 (1) (a) and (2). The Commission, in collaboration with CBN, other relevant regulators and law enforcement authorities, intends to enforce the law to its fullest extent and invites consumers to report violations (when they occur) with evidence of such violations.
 
  
+
 Babatunde Irukera
+
 
 Chief Executive Officer
