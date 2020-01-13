@@ -1,7 +1,6 @@
 ---
 title: FCCPC Advisory on CBN Guide to Bank Charges, 2020 (Commercial Banks
 date: 2020-01-12 23:44:00 -11:00
-image: "/uploads/3RD%20PAGE-3865dc.jpg"
 ---
 
 ![1ST PAGE-d74409.jpg](/uploads/1ST%20PAGE-d74409.jpg)
