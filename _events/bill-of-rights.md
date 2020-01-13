@@ -2,6 +2,7 @@
 title: Health Minister hails FCCPC’s draft Patients’ Bill of Rights (PBoR), says it’s
   a ground-breaking legacy document
 date: 2018-05-13 12:00:00 -11:00
+published: false
 event_date: 2018-05-13 12:00:00 -11:00
 image: "/uploads/bill-02.jpg"
 event_number: 2
