@@ -1,6 +1,7 @@
 ---
 title: FCCPC Sensitizes Consumers in Kaduna on Quality
 date: 2018-02-27 12:00:00 -11:00
+published: false
 event_date: 2018-02-27 12:00:00 -11:00
 image: "/uploads/kaduna-02.jpg"
 event_number: 2
