@@ -1,0 +1,16 @@
+---
+title: FCCPC Dialogues with Professional Associations, Advocates Partnership.
+date: 2020-01-13 05:07:00 -11:00
+event_date: 2019-12-16 00:00:00 -11:00
+image: "/uploads/Professional%20Association.jpg"
+---
+
+FCCPC Dialogues with Professional Associations, Advocates Partnership 
+
+Babatunde Irukera, CEO, FCCPC,has described professional associations as a powerful partner for protecting consumers and promoting competition. 
+
+According to the CEO, most professional associations "have strong governance frameworks that can be deployed as collaboration with FCCPC for shared prosperity and benefit of all."
+
+Irukera, who spoke at a consultative meeting with professional bodies and associations in Lagos, called for strong partnership between the associations and FCCPC.
+
+The event had as its theme, "A Partnership for an Improved Market."
