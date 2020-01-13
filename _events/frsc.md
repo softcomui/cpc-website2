@@ -1,6 +1,7 @@
 ---
 title: FCCPC Partners FRSC on Road Safety
 date: 2018-02-24 13:00:00 -11:00
+published: false
 event_date: 2018-02-24 13:00:00 -11:00
 image: "/uploads/An_office.jpg  "
 is_events: false
