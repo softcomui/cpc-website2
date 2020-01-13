@@ -1,6 +1,7 @@
 ---
 title: 'Quality Campaign: LASG pledges readiness to collaborate with FCCPC'
 date: 2018-01-29 12:00:00 -11:00
+published: false
 image: "/uploads/lagos-quality-01.jpg"
 Event Date: 2018-01-29 12:00:00 -11:00
 event_number: 2
