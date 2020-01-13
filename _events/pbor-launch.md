@@ -2,6 +2,7 @@
 title: FCCPC, in collaboration with Federal Ministry of Health, launches Patients’
   Bill of Rights (PBoR)
 date: 2018-07-31 00:00:00 -11:00
+published: false
 event_date: 2018-08-14 00:00:00 -11:00
 image: "/uploads/pbor.10.jpg"
 event_number: 2
