@@ -1,5 +1,5 @@
 ---
-title: N50 STAMP DUTY POS CHARGE
+title: N50 stamp duty POS charge
 date: 2019-12-26 23:18:00 -11:00
 ---
 
