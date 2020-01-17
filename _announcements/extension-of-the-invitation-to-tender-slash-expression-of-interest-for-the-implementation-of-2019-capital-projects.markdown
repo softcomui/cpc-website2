@@ -2,6 +2,7 @@
 title: EXTENSION OF THE INVITATION TO TENDER / EXPRESSION OF INTEREST FOR THE IMPLEMENTATION
   OF 2019 CAPITAL PROJECTS
 date: 2019-11-06 00:07:00 -11:00
+published: false
 ---
 
 The Commission has extended by two weeks its INVITATION TO TENDER / EXPRESSION OF INTEREST FOR THE IMPLEMENTATION OF 2019 CAPITAL PROJECTS as advertised in the Blue Print and Leadership Newspaper on Monday, October 21 2019. 
