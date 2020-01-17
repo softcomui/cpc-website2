@@ -1,6 +1,6 @@
 ---
-title: SUMMARY OF ORDER BY FCCPC IN THE INVESTIGATION INTO MULTICHOICE COMPLIANCE
-  WITH ORDER OF FEBUARY 2016
+title: Summary of order by FCCPC  in the investigation into MultiChoice compliance
+  with Order of February 2016
 date: 2019-06-13 00:42:00 -11:00
 image: "/uploads/0001.jpg"
 ---
