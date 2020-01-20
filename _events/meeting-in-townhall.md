@@ -2,6 +2,7 @@
 title: Any electricity distribution company that undermines consumer rights violates
   the law – FCCPC
 date: 2018-03-23 12:00:00 -11:00
+published: false
 event_date: 2018-03-24 00:00:00 -11:00
 image: "/uploads/townhall-01.jpg"
 event_number: 2
