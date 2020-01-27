@@ -2,7 +2,7 @@
 title: FCCPC Dialogues with Professional Associations, Advocates Partnership.
 date: 2020-01-13 05:07:00 -11:00
 event_date: 2019-12-16 00:00:00 -11:00
-image: "/uploads/ELpSHCIX0AAh1MB.jpg"
+image: "/uploads/ELl7CrYWoAAopg8.jpg"
 event_number: 2
 caption: |-
   "Professional associations are a powerful partner for protecting consumers and promoting competition. Most have strong governance frameworks that can be deployed as collaboration with FCCPC for shared prosperity & benefit of all."
