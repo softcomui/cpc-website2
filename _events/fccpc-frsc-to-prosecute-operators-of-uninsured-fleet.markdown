@@ -2,7 +2,7 @@
 title: FCCPC, FRSC to Prosecute Operators of Uninsured Fleet
 date: 2020-01-13 05:35:00 -11:00
 event_date: 2019-12-19 00:00:00 -11:00
-image: "/uploads/ELHu2wuW4AcQmcK.jpg"
+image: "/uploads/ELHux1QWwAUGf02.jpg"
 event_number: 2
 caption: 'FCCPC, FRSC to Prosecute Operators of Uninsured Fleet '
 ---
