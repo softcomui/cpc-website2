@@ -11,7 +11,7 @@ caption: |-
   CEO, FCCPC
 ---
 
-FCCPC Dialogues with Professional Associations, Advocates Partnership 
+FCCPC Dialogues with Professional Associations, Advocates Partnership
 
 Babatunde Irukera, CEO, FCCPC,has described professional associations as a powerful partner for protecting consumers and promoting competition. 
 
