@@ -18,6 +18,6 @@ c.	Bidders should not bid for more than two (2) Lots;
 d.	All costs will be borne by the bidders;
 e.	Category A:All shortlisted bidders will be contacted at a later date for collection of tender documents;
 f.	Category B: Only pre-qualified bidders at technical evaluation will be invited at a later date for financial bids opening, while the financial bids of un-successful bidders will be returned un-opened;
-g.	The Federal Competition and Consumer Protection Commission  (FCCPC) is not bound to shortlist any bidder and reserves the right to annul the Procurement process at any time without incurring any liabilities in accordance with Section 28 of the Public Procurement Act 2007. 
+g.	The Federal Competition and Consumer Protection Commission  (FCCPC) is not bound to shortlist any bidder and reserves the right to annul the Procurement process at any time without incurring any liabilities in accordance with Section 28 of the Public Procurement Act 2007 
 SIGNED
 CHIEF EXECUTIVE OFFICER
