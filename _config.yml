@@ -19,7 +19,7 @@ collections:
     title: Consumer Blog
     output: true
   education:
-    title: Consumer Education Materials
+    title: Consumer Education
     output: true
   cpa:
     title: Consumer Protection Alliances
