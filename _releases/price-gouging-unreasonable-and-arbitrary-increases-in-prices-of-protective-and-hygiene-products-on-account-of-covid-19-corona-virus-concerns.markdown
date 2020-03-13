@@ -20,6 +20,7 @@ Considering the circumstances and the vital national interest/security this ille
 Meanwhile, the Commission is in continuing communication with the Nigeria Centre For Disease Control NCDC) and understands that Nigeria’s readiness to address this discovery of COVID-19 and prevent wide-spread infection is sufficient and effective.  Consumers should however proceed in abundance of caution and follow all respiratory and hand-washing hygiene practices that have been published by NCDC, W.H.O, U.S. CDC, LASG, FCCPC and other official and authoritative sources. Where described symptoms or adverse events are observed in self or others, please follow the instructions provided and notify the authorities and the telephone numbers also provided in the published materials previously identified.  
 
 Babatunde Irukera
+
 Chief Executive Officer
 
 
