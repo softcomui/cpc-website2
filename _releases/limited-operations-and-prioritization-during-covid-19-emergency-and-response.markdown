@@ -21,6 +21,8 @@ The Federal Competition & Consumer Protection Commission is complying with the d
  Again, we encourage consumers to be cautious, stay safe, cooperate and comply with all directives, protocols, orders or guidance of the relevant authorities during this global emergency.
 
 
+
+
 Babatunde Irukera
 
 Chief Executive Officer
