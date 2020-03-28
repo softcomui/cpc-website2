@@ -1,5 +1,5 @@
 ---
-title: 'UPDATE: Limited operations and prioritization during  Covid-19 emergency and
+title: 'UPDATE: Limited Operations and prioritization during  Covid-19 emergency and
   response.'
 date: 2020-03-28 06:21:00 -11:00
 ---
