@@ -21,6 +21,8 @@ In furtherance of this investigation, the Commission is keen to gather additiona
 The Commission therefore requests credible information in this regard in the form of a concise narrative of facts including the identity of the MedContour operatives the interactions occurred with.   Information should be sent to: failedcosmeticsurgery@fccpc.gov.ng
 
 
-Babatunde Irukera
+
+
+**Babatunde Irukera**
 
 Chief Executive Officer
