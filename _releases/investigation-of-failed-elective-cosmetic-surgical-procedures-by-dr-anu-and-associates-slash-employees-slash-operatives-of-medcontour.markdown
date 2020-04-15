@@ -1,7 +1,7 @@
 ---
 title: |-
   Investigation of failed elective cosmetic surgical  procedures  by
-  Dr. Anu and Associates/Employees/Operatives of MedContour
+  Dr. Anu and associates/employees/operatives of MedContour
 date: 2020-04-15 06:45:00 -11:00
 ---
 
