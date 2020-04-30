@@ -7,6 +7,6 @@ image:
 - "/uploads/two.jpg"
 ---
 
-![one-8910d7.jpg](/uploads/one-8910d7.jpg),
+![](/uploads/one-8910d7.jpg),
 
-![two.jpg](/uploads/two.jpg)
+![](/uploads/two.jpg)
