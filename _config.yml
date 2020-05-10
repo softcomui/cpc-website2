@@ -55,7 +55,7 @@ collections:
   partners:
     title: Partners
     output: true
-    permalink: "/about/partners/:collection/:name/"
+    permalink: "/partners/:collection/:name/"
   posts:
     title: Posts
     output: true

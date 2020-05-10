@@ -29,10 +29,6 @@ mainnav:
     url: "/consumers/responsibilities/"
   - page: Complaints Handling Procedures
     url: "/consumers/complaints-handling-procedures/"
-  - page: Import Prohibition List
-    url: "/consumers/import-prohibition-list"
-  - page: Absolutely Prohibited Product List
-    url: "/consumers/absolutely-prohibited-list/"
   - page: Testimonials
     url: "/consumers/testimonials/"
   - page: Consumer Blog
@@ -42,19 +38,23 @@ mainnav:
   pages:
   - page: Business Obligations
     url: "/businesses/obligations/"
-  - page: Sales Promotions Regulations and Guidelines
-    url: "/businesses/sales-promotion-guidelines/"
   - page: Register Sales Promotion
     url: "/businesses/register-sales-promotion/"
   - page: Sales Promotion Documents
     url: "/businesses/documents/"
-- section: Guidelines
+- section: Law & Regulations
   url: "/guidelines/"
   pages:
-  - page: Relevant Documents
+  - page: FCCPC Act
     url: "/guidelines/documents/"
+  - page: Regulations (Sales Promotion)
+    url: "/guidelines/sales-promotion-guidelines/" 
   - page: Merger Guidelines
     url: "/guidelines/mergers/" 
+  - page: Other Guidelines
+    url: "/guidelines/other-guidelines/"
+  - page: PBOR
+    url: "/guidelines/PBOR"
 - section: Publications
   url: "/publications/"
   pages:
@@ -62,8 +62,17 @@ mainnav:
     url: "/publications/annual-reports/"
   - page: Consumer Education Materials
     url: "/publications/materials/"
-  - page: PBOR
-    url: "/publications/PBOR"
+  - page: Absolutely Prohibited Product List
+    url: "/publications/absolutely-prohibited-list/"
+  - page: Import Prohibition List
+    url: "/publications/import-prohibition-list/"
+- section: Partners
+  url: "/partners/"
+  # pages:
+  # - page: CPA
+  #   url: "/partners/cpa-form/"
+  # - page: Registered CPA
+  #   url: "/publications/materials/"   
 - section: News & Events
   url: "/news-events/"
   pages:

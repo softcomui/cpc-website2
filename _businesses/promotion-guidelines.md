@@ -1,6 +1,6 @@
 ---
 title: Sales Promotions Regulations & Guidelines
-permalink: "/businesses/sales-promotion-guidelines/"
+permalink: "/guidelines/sales-promotion-guidelines/"
 document:
 - file: "/uploads/files/sales-promotions-regulations.pdf"
   name: Download Regulations

@@ -1,6 +1,8 @@
 ---
 title: CPA Registration Form
-document: ngos
+document: partners
 file: "/uploads/files/ngo-registration-form.pdf"
+layout: documents
+# permalink: "/partners/cpa-form/"
 ---
 

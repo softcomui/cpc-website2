@@ -1,6 +1,6 @@
 ---
 title: Patients’ Bill of Rights
-permalink: "/publications/PBOR/"
+permalink: "/guidelines/PBOR/"
 name: Babatunde Irukera, DG, FCCPC.
 is-pbor: true
 document:

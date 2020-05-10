@@ -1,7 +1,7 @@
 ---
 title: FCCPC Foreign Mergers
 permalink: "/guidelines/mergers/"
-layout: merger
+layout: documents
 document: merger
 ---
 

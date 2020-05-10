@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="mt-h p-1 pb-h">
-    <a href="{{ site.url }}/publications/PBOR/" class="flash-a maxwidth-lt flash-boxshadow mx-auto p-h">
+    <a href="{{ site.url }}/news-events/releases/" class="flash-a maxwidth-lt flash-boxshadow mx-auto p-h">
         <div class="flash-btn">
             <svg class="flash-svg" width="140" height="70" viewBox="0 0 558 159" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <rect width="178" height="53" fill="black" fill-opacity="0" transform="translate(12) scale(3)" />
@@ -25,11 +25,11 @@ layout: default
             </svg>
             <h4 class="flash-h">NEW</h4>
         </div>
-        {% assign reversedReleases = site.publications| reverse %} 
+        {% assign reversedReleases = site.releases| reverse %} 
         {% assign latestRelease = reversedReleases[0] %}
         <div class="ml-4 p-0 ">
             <span class="co-richblack absolute-position nanotext">
-                {{ latestRelease.content | truncate: 200, '...' }}
+                {{ latestRelease.title | truncate: 200, '...' }}
             </span>
         </div>
     </a>

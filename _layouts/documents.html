@@ -11,9 +11,33 @@ layout: default
 <section class="maxwidth-sl mx-auto pb-1">
     <div class="wrapper">
         <ul class="none">
-        {% if page.document == "ngos" %}
+            {% if page.document == "ngos" %}
             {% assign ngos = site.documents | where: "document", "ngos" %}
             {% for document in ngos %}
+            <li>
+                <h3>{{ document.title }}</h3>
+                <div class="mb-1">
+                    <a href="{{ document.file | prepend: site.url }}" download><button
+                            class="btn btn-brand p-1 border prefix smalltext">Download
+                            document</button>{% include tools/icons.html icon="download" %}</a>
+                </div>
+            </li>
+            {% endfor %}
+            {% elsif page.document == "merger" %}
+            {% assign merger = site.documents | where: "document", "merger" %}
+            {% for document in merger %}
+            <li>
+                <h3>{{ document.title }}</h3>
+                <div class="mb-1">
+                    <a href="{{ document.file | prepend: site.url }}" download><button
+                            class="btn btn-brand p-1 border prefix smalltext">Download
+                            document</button>{% include tools/icons.html icon="download" %}</a>
+                </div>
+            </li>
+            {% endfor %}
+            {% elsif page.document == "partners" %}
+            {% assign partners = site.documents | where: "document", "partners" %}
+            {% for document in partners %}
                 <li>
                     <h3>{{ document.title }}</h3>
                     <div class="mb-1">
@@ -21,18 +45,30 @@ layout: default
                     </div>
                 </li>
             {% endfor %}
-        {% else %}
+            {% elsif page.document == "other-guidelines" %}
+            {% assign other-guidelines = site.documents | where: "document", "other-guidelines" %}
+            {% for document in other-guidelines %}
+                <li>
+                    <h3>{{ document.title }}</h3>
+                    <div class="mb-1">
+                        <a href="{{ document.file | prepend: site.url }}" download><button class="btn btn-brand p-1 border prefix smalltext">Download document</button>{% include tools/icons.html icon="download" %}</a>
+                    </div>
+                </li>
+            {% endfor %}
+            {% else %}
             {% assign businesses = site.documents | where: "document", "businesses" %}
             {% for document in businesses %}
-                <li>
-                    <h3>{{ document.title }}</h3>
-                    <div class="mb-1">
-                        <a href="{{ document.file | prepend: site.url }}" download><button class="btn btn-brand p-1 border prefix smalltext">Download document</button>{% include tools/icons.html icon="download" %}</a>
-                    </div>
-                </li>
+            <li>
+                <h3>{{ document.title }}</h3>
+                <div class="mb-1">
+                    <a href="{{ document.file | prepend: site.url }}" download><button
+                            class="btn btn-brand p-1 border prefix smalltext">Download
+                            document</button>{% include tools/icons.html icon="download" %}</a>
+                </div>
+            </li>
             {% endfor %}
-        {% endif %}
-    </ul>
+            {% endif %}
+        </ul>
     </div>
-    
+
 </section>
