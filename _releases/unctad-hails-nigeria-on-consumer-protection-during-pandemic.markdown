@@ -15,19 +15,25 @@ Other participants at the forum were:
 ▪	Ms. Maria Carolina Corcione, Director for Consumer Protection, 
         Superintendence of Industry and Commerce, Colombia 
 
+
 ▪	Mr. Jongbae Park, Director of International Cooperation, Korea Fair Trade 
         Commission, Republic of Korea
+
 
 ▪	Ms. Alessandra Tonnazzi, Director of the International Affairs Office and 
         acting Director of the European Affairs Office, Italian Competition 
         Authority, Italy
 
+
 ▪	Ms. Helena Leurent, Director General, Consumers International
+
 
 ▪	Mr. Pradeep Mehta, Secretary General, CUTS International
 
+
 ▪	Moderator: Ms. Teresa Moreira, Head, Competition and Consumer Policies 
         Branch, UNCTAD
+
 
 UNCTAD noted robust actions and positive outcomes in Nigeria. These include a warning letter by FCCPC to sellers engaged in price gouging and arbitrary increases in prices of hygiene products during COVUD-19 outbreak. Also significant was Jumia’s decision to sweep its platform and delist 360 products belonging to 168 sellers of hand sanitizers and face masks from its platform for price gouging in response to regulatory action by FCCPC.  
 
@@ -38,9 +44,20 @@ Responding to a question about whether ongoing prosecutions were based on consum
 *IRUKERA QUOTE HERE
 
 The UNCTAD session also chronicled robust actions by other countries apart from Nigeria as consumer protection authorities monitor digital markets more closely to fight unfair, misleading and abusive practices. Some examples:
-▪	Italy suspended the marketing of an antiviral drug sold for more than 600 euros and ordered the shutdown of the relevant company’s website. The country also initiated an investigation into misleading claims and excessive price increases of Amazon and eBay e-commerce platforms.
-▪	Colombia ordered digital platforms to withdraw miracle products in relation to COVID-19.
-▪	On 23 March 2020, the consumer protection authorities of all EU member States (Consumer Protection Cooperation network), issued a common position on the most reported scams and unfair practices in the COVID19 context.  
+
+
+▪	Italy suspended the marketing of an antiviral drug sold for more than 600 
+        euros and ordered the shutdown of the relevant company’s website. The country 
+        also initiated an investigation into misleading claims and excessive price 
+        increases of Amazon and eBay e-commerce platforms.
+
+
+▪	Colombia ordered digital platforms to withdraw miracle products in relation 
+        to COVID-19.
+
+
+▪	On 23 March 2020, the consumer protection authorities of all EU member States 
+         (Consumer Protection Cooperation network), issued a common position on the most reported scams and unfair practices in the COVID19 context.  
 
 
 
