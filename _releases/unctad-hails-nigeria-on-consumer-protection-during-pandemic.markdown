@@ -14,13 +14,18 @@ Nigeria, represented by Babatunde Irukera, Director General, Federal Competition
 Other participants at the forum were:
 ▪	Ms. Maria Carolina Corcione, Director for Consumer Protection, 
         Superintendence of Industry and Commerce, Colombia 
+
 ▪	Mr. Jongbae Park, Director of International Cooperation, Korea Fair Trade 
         Commission, Republic of Korea
+
 ▪	Ms. Alessandra Tonnazzi, Director of the International Affairs Office and 
         acting Director of the European Affairs Office, Italian Competition 
         Authority, Italy
+
 ▪	Ms. Helena Leurent, Director General, Consumers International
+
 ▪	Mr. Pradeep Mehta, Secretary General, CUTS International
+
 ▪	Moderator: Ms. Teresa Moreira, Head, Competition and Consumer Policies 
         Branch, UNCTAD
 
