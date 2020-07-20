@@ -18,7 +18,7 @@ intro:
     and Kano.\n\n\n**Vision:**  \nA market that’s a model for ease, innovation, dynamism,
     responsiveness and satisfaction.\n\n**Mission:**\nTo promote a fair and vibrant
     market while ensuring consumers are the core of, not ancillary to business.\n\n**Core
-    Values:**\n(i)\tCompetence\n(ii)\tResponsiveness \n(iii)\tEthics\n(iv)\tSensitivity
+    Values:**\n\n(i)\tCompetence\n(ii)\tResponsiveness \n(iii)\tEthics\n(iv)\tSensitivity
     \t\t\t\t    \n(v)\tTransparency\n(vi)\tStability\n"
 yea: 
 layout: council
