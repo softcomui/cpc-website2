@@ -16,7 +16,7 @@ intro:
     and secure the protection of rights for all consumers in Nigeria.\n\nFCCPC currently
     has offices in Abuja, Lagos, Port-Harcourt, Awka, Osogbo, Minna, Bauchi, Katsina
     and Kano.\n\n\n**Vision:**  \nA market that’s a model for ease, innovation, dynamism,
-    responsiveness and satisfaction.\n\n**Mission: **\nTo promote a fair and vibrant
+    responsiveness and satisfaction.\n\n**Mission:**\n\nTo promote a fair and vibrant
     market while ensuring consumers are the core of, not ancillary to business.\n\n**Core
     Values:**\n(i)\tCompetence\n(ii)\tResponsiveness \n(iii)\tEthics\n(iv)\tSensitivity
     \t\t\t\t    \n(v)\tTransparency\n(vi)\tStability\n"
