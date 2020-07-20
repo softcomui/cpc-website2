@@ -15,10 +15,10 @@ intro:
     markets in the Nigerian economy, facilitate access by all citizens to safe products,
     and secure the protection of rights for all consumers in Nigeria.\n\nFCCPC currently
     has offices in Abuja, Lagos, Port-Harcourt, Awka, Osogbo, Minna, Bauchi, Katsina
-    and Kano.\n\n\n**Vision:**  A market that’s a model for ease, innovation, dynamism,
-    responsiveness and satisfaction.\n\n**Mission:**\nTo promote a fair and vibrant
-    market while ensuring consumers are the core of, not ancillary to business.\n\n**Core
-    Values:**\n\n(i)\tCompetence\n\n(ii)\tResponsiveness \n\n(iii)\tEthics\n\n(iv)\tSensitivity
+    and Kano.\n\n\n\n\n\n**Vision:**  A market that’s a model for ease, innovation,
+    dynamism, responsiveness and satisfaction.\n\n**Mission:**\nTo promote a fair
+    and vibrant market while ensuring consumers are the core of, not ancillary to
+    business.\n\n**Core Values:**\n\n(i)\tCompetence\n\n(ii)\tResponsiveness \n\n(iii)\tEthics\n\n(iv)\tSensitivity
     \t\n\t\t\t    \n(v)\tTransparency\n\n(vi)\tStability\n"
 yea: 
 layout: council
