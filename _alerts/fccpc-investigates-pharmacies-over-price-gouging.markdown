@@ -12,6 +12,6 @@ The investigation is at early stages and the Commission has not made any final f
 It is unconscionable, exploitative and predatory to take opportunistic advantage of citizens on account of a pandemic and consumer apprehension.  The Commission again reiterates its previous advisories and admonitions while reinstating its commitment, desire and will to enforce the law.
 
 
-Babatunde Irukera
+**Babatunde Irukera**
 
-Chief Executive Officer
+**Chief Executive Officer**
