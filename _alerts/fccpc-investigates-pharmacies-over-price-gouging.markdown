@@ -7,6 +7,8 @@ The Federal Competition and Consumer Protection Commission (FCCPC) in furtheranc
 
 
 Specifically, there have been a rash of posts representing Hydroxychloroquine to costing between N50,000.00 and N75,000.00.  One of the posts showed the medicine and a price tag of N50,000.00 of Ebus Pharmacy in Port-Harcourt.  The Commission has also become aware of price display of N75,000.00 by HealthPlus Limited.  
+
+
 Between 10.00A.M. and 6.00P.M. today, the Commission conducted simultaneous on-site investigations on Ebus and Avis Pharmacy, both in Port-Harcourt; multiple locations of Health Plus Limited in Lagos and Abuja, Tonia Pharmacy, H-Medix and New Health Pharmacies, all in Abuja.  
 
 
