@@ -1,6 +1,7 @@
 ---
 title: FCCPC investigates Pharmacies over price gouging
 date: 2020-08-04 20:51:00 -11:00
+published: false
 ---
 
 The Federal Competition and Consumer Protection Commission (FCCPC) in furtherance of continuing oversight and in response to multiple social media posts about what appeared to be excessive and unconscionable pricing of potentially vital medication that is perceived or presented as efficacious therapy in addressing Covid-19 conducted enforcement activities today.
