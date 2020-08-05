@@ -1,5 +1,5 @@
 ---
-title: FCCPC investigates pharmacies over price gouging
+title: FCCPC investigates Pharmacies over price gouging
 date: 2020-08-04 20:51:00 -11:00
 ---
 
@@ -11,5 +11,7 @@ In addition, in some of the targets of this investigation, the Commission discov
 The investigation is at early stages and the Commission has not made any final findings. However unreasonable, unjust and irrational prices or margins are a criminal offence under the Federal Competition and Consumer Protection Act and the Commission is currently prosecuting some pharmacies and supermarkets for this.  
 It is unconscionable, exploitative and predatory to take opportunistic advantage of citizens on account of a pandemic and consumer apprehension.  The Commission again reiterates its previous advisories and admonitions while reinstating its commitment, desire and will to enforce the law.
 
+
 Babatunde Irukera
+
 Chief Executive Officer
