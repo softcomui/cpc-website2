@@ -1,5 +1,5 @@
 ---
-title: Unfair employment practices by Inner Steel Company.
+title: Unfair Employment Practices by Inner Steel Company
 date: 2020-08-14 03:35:00 -11:00
 ---
 
