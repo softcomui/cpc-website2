@@ -1,6 +1,6 @@
 ---
-title: FCCPC seals Apples and Pears business location for expired/expiring inventories
-  and unsafe food/product handling
+title: Sealing of Apples & Pears Business Location for Expired/Expiring Inventories
+  and Unsafe Food Product Handling
 date: 2020-08-13 23:03:00 -11:00
 ---
 
