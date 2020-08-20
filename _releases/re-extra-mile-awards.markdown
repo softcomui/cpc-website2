@@ -12,6 +12,8 @@ While expressing its gratitude for the recognition and award, the Commission rea
 The Commission will continue to intensify its efforts and invites, as well as encourages all, to collaborate as we not only build consensus on the priority of consumer rights protection, but also demand and insist these rights are respected and protected.
 
 
+
+
 **Babatunde Irukera**
 
 Chief Executive Officer
