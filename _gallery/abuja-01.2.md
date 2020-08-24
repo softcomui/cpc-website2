@@ -3,6 +3,7 @@ title: FCCPC uncovers sharp practices and non-conformity with Good Manufacturing
   (GMP), Good Hygiene Practice (GHP) and Good Storage Practice (GSP) during the inspection
   of a corn flour factory in Piwoyi, Airport Road, Abuja. FCCPC evacuates the products
   pending implementation of all corrective measures issued to the company.
+position: 0
 image: "/uploads/abuja-03.png"
 dimensions: 1012x675
 ---

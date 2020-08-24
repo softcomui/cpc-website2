@@ -7,6 +7,7 @@ title: Director General (DG), Federal Competition and Consumer Protection Commis
   Hussain (2nd right) and Board Chairperson, Lagos State Consumer Protection Agency
   (LASCOPA), Mrs. Funmilola Falana.
 date: 2018-07-30 20:20:00 -11:00
+position: 31
 is_gallery: true
 image: "/uploads/the%20cpc%203.jpg"
 dimension: 1012x675

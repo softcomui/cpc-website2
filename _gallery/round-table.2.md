@@ -10,6 +10,7 @@ title: 'L-R: National President, National Association of Telecom Subscribers, Ch
   Director, Consumer Education FCCPC, Mrs. Mopelola Akeju in a group photograph after
   a round table forum for Non-Governmental Organisations (NGOs) Civil Society Organisations
   (CSOs), and Community Based Organisations (CBOs), organized by FCCPC.'
+position: 56
 image: "/uploads/round-table-03.jpg"
 dimensions: 1012x675
 ---

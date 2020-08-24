@@ -5,6 +5,7 @@ title: Director General, Federal Competition and Consumer Protection Commission 
   are, Deputy Director, Surveillance and Enforcement, FCCPC, Engineer Sham Kolo (left);
   Chief State Head, Benin Electricity Distribution Company (BEDC), Engr. Fidelis Obichai
   (2nd left) and Executive Director, BEDC, Abu Ejoor (right).
+position: 20
 image: "/uploads/edo-01.jpg"
 dimensions: 1012x675
 ---

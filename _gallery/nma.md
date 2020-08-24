@@ -5,6 +5,7 @@ title: Director General Federal Competition and Consumer Protection Commission (
   Others in the picture are, former Secretary General NMA, Dr. Yusuf Tanko (left);
   Director, Planning Research and Statistics FCCPC, Ola Raheem (2nd right) and Director,
   Surveillance and Enforcement FCCPC, Mrs. Leke Ogundipe.
+position: 54
 image: "/uploads/nma-01.jpg"
 dimensions: 1012x675
 ---

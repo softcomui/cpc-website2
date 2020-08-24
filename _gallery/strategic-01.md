@@ -6,6 +6,7 @@ title: "(Right) Director General, Federal Competition and Consumer Protection Co
   Evansville Industries e-farmers Nigeria, Ayotunde Emmanuel; Managing Director, A.K.G
   Global Multi-service Company Limited, Hajia Aisha Gaya; and Regional Sales Manager,
   Yudala Limited, Charles Ogbamebo."
+position: 46
 image: "/uploads/strategic-1.jpg"
 dimensions: 1012x675
 ---

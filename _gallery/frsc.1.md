@@ -5,6 +5,7 @@ title: Federal Road Safety Commission (FRSC), Corps Marshal, Boboye Oyeyemi (sec
   visit to FRSC Headquarters in Abuja. On the left is FRSC Deputy Corps Marshal, Chidi
   Nwachukwu; and on the right, Director, Surveillance and Enforcement, FCCPC, Mrs.
   Leke Ogundipe.
+position: 2
 image: "/uploads/frsc-02.jpg"
 dimensions: 1012x675
 ---

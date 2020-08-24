@@ -4,6 +4,7 @@ title: 'L-R: Professor Oluwatoyin Ogundipe, Vice Chancellor, University of Lagos
   Organisation (UNIDO); and Mr. Babatunde Irukera, Director General, Consumer Protection
   Council (FCCPC) discussing during the National Campaign and Advocacy for Quality
   in Nigeria in Lagos.'
+position: 36
 image: "/uploads/unilag-01.jpg"
 dimensions: 1012x675
 ---

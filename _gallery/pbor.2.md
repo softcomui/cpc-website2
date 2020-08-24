@@ -7,6 +7,7 @@ title: His Excellency, the Vice President, Prof. Yemi Osinbajo, the Director Gen
   Protection Commission, Barr. Emeka Nwankpa, at the State House Banquet Hall, Aso
   Villa, during the recent launch of Patients’ Bill of Rights (PBoR).
 date: 2018-07-31 20:20:00 -11:00
+position: 24
 image: "/uploads/pbor.2.jpg"
 dimension: 1012x675
 ---
