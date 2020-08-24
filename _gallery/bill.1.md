@@ -5,7 +5,7 @@ title: Director General, Federal Competition and Consumer Protection Commission 
   Others in the picture are President, Nigerian Medical Association (NMA), Dr. Francis
   Faduyile (2nd left) and Director, Hospital Services, Federal Ministry of Health,
   Dr. Omale Amedu (left).
-position: 15
+position: 18
 image: "/uploads/bill-02.jpg"
 dimensions: 3313x1300
 ---
