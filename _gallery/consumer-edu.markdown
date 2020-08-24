@@ -7,7 +7,7 @@ title: West Africa Sub-Regional Coordinator, Campaign for Tobacco-free Kids, Mrs
   FCCPC, Mrs. Leke Ogundipe (second right), and Director, Consumer Education, FCCPC,
   Mrs. Mopelola Akeju.
 date: 2018-07-30 20:28:00 -11:00
-position: 33
+position: 36
 image: "/uploads/the%20cpc%204.png"
 dimensions: 1012x675
 ---

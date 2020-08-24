@@ -5,7 +5,7 @@ title: 'Director General, Federal Competition and Consumer Protection Commission
   of the Managing Director, Nigeria Electricity Management Service Agency (NEMSA),
   Engineer William Metiete (left); and Commissioner, Consumer Affairs, Nigeria Electricity
   Regulatory Commission (NERC) Dr. Moses Arigu (2nd left).'
-position: 42
+position: 44
 image: "/uploads/townhall-01.jpg"
 dimensions: 1012x675
 ---
