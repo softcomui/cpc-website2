@@ -1,6 +1,6 @@
 ---
 title: Federal Competition  and Consumer Protection Act
 document: ngos
-file: "/uploads/Gazeette05312019135035"
+file: "/uploads/Gazeetted%20FCCP%20Act.pdf"
 ---
 
