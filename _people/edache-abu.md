@@ -7,16 +7,16 @@ rank: 10
 layout: person
 ---
 
-Mr. Abu, Joseph Edache is the Head of internal Audit (Internal Auditor).
+Mr. Abu, Joseph Edache is the Head of Internal Audit (Internal Auditor).
 
-Mr. Abu who hails from Benue state of Nigeria, was born in Otukpo town, in Otukpo local Government area of the state.
+Mr. Abu who hails from Benue state of Nigeria, was born in Otukpo town, in Otukpo Local Government Area of the State.
 
-He holds a Higher National Diploma in Accountancy (H.N.D.), from Benue State Polytechnic Ugbokolo, and Ordinary National Diploma in accountancy (O.N.D) from Kaduna polytechnic.
+He holds a Higher National Diploma in Accountancy (H.N.D.), from Benue State Polytechnic Ugbokolo, and an Ordinary National Diploma in Accountancy (O.N.D) from Kaduna polytechnic, Kaduna.
 
-He attended Mount Saint Michael secondary school Aliade and St Augustine’s primary school Otukpo. (All in Benue state).
+He attended Mount Saint Michael Secondary School, Aliade and St Augustine’s primary school Otukpo (all in Benue State).
 
-He is a professionally qualified chattered Accountant, and a member of national and international accountancy bodies, including the Institute of financial Accountant Kent, England UK. (IFA); and the Association of National Accountant of Nigeria. (ANAN).
+He is a professionally qualified chartered accountant, and a member of national and international accountancy bodies, including the Institute of Financial Accountants, Kent, England, UK (IFA); and the Association of National Accountants of Nigeria. (ANAN).
 
-He has a strong industrial experience with First Bank plc, and PCD (Project Construction and Design) Associates, where he worked as the Accountant and Head of Accounts and Finance of the firm.
+He has a strong industrial experience with First Bank Plc, and PCD (Project Construction and Design) Associates, where he worked as the Accountant and Head of Accounts and Finance of the firm.
 
-He joined the FCCPC as a Senior Accountant, and functions in the Internal Audit Unit. His present designation is, AD/IA (Assistant Director Internal Audit). 
+He joined the Federal Competition and Consumer Protection Commission (FCCPC) as a Senior Accountant, and functions in the Internal Audit Unit. His present designation is Assistant Director, Internal Audit (AD/IA). 
