@@ -3,6 +3,7 @@ title: Business Obligations
 permalink: "/businesses/obligations/"
 main: |
   Businesses shall:
+
   (1)  Not employ technologies that are inherently harmful, injurious, violent and hazardous to consumers;
 
   (2)  Remove or eliminate from the market, hazardous products, and replace them with products that are safer and more appropriate;
