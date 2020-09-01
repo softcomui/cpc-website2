@@ -1,5 +1,5 @@
 ---
-title: Sales Promotions Regulations & Guidelines
+title: Sales Promotion Regulations & Guidelines
 permalink: "/guidelines/sales-promotion-guidelines/"
 document:
 - file: "/uploads/files/sales-promotions-regulations.pdf"
