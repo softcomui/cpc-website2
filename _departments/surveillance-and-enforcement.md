@@ -1,7 +1,7 @@
 ---
 title: Surveillance and Enforcement (S&E) Department
 permalink: "/about/departments/surveillance-and-enforcement/"
-main: "The Surveillance and Enforcement Department (S & E) is a key operational unit
+main: "The Surveillance and Enforcement (S & E) Department is a key operational unit
   of the Commission.  The department hosts and manages the complaint resolution functions;
   and the surveillance and enforcement activities of the Commission.  In resolving
   complaints, the department participates in simple resolutions, negotiations, mediations,
