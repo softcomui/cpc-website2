@@ -5,7 +5,9 @@ layout: default
 <section class="maxwidth-sl mx-auto">
     <div class="wrapper top-heading">
         {% include lists/breadcrumbs.html %}
+        {% if page.title %}
         <h2>{{ page.title }}</h2>
+        {% endif %}
     </div>
 </section>
 <section class="maxwidth-sl mx-auto pb-1">
@@ -38,22 +40,26 @@ layout: default
             {% elsif page.document == "partners" %}
             {% assign partners = site.documents | where: "document", "partners" %}
             {% for document in partners %}
-                <li>
-                    <h3>{{ document.title }}</h3>
-                    <div class="mb-1">
-                        <a href="{{ document.file | prepend: site.url }}" download><button class="btn btn-brand p-1 border prefix smalltext">Download document</button>{% include tools/icons.html icon="download" %}</a>
-                    </div>
-                </li>
+            <li>
+                <h3>{{ document.title }}</h3>
+                <div class="mb-1">
+                    <a href="{{ document.file | prepend: site.url }}" download><button
+                            class="btn btn-brand p-1 border prefix smalltext">Download
+                            document</button>{% include tools/icons.html icon="download" %}</a>
+                </div>
+            </li>
             {% endfor %}
             {% elsif page.document == "other-guidelines" %}
             {% assign other-guidelines = site.documents | where: "document", "other-guidelines" %}
             {% for document in other-guidelines %}
-                <li>
-                    <h3>{{ document.title }}</h3>
-                    <div class="mb-1">
-                        <a href="{{ document.file | prepend: site.url }}" download><button class="btn btn-brand p-1 border prefix smalltext">Download document</button>{% include tools/icons.html icon="download" %}</a>
-                    </div>
-                </li>
+            <li>
+                <h3>{{ document.title }}</h3>
+                <div class="mb-1">
+                    <a href="{{ document.file | prepend: site.url }}" download><button
+                            class="btn btn-brand p-1 border prefix smalltext">Download
+                            document</button>{% include tools/icons.html icon="download" %}</a>
+                </div>
+            </li>
             {% endfor %}
             {% else %}
             {% assign businesses = site.documents | where: "document", "businesses" %}

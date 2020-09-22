@@ -8,6 +8,8 @@ mainnav:
     url: "/about/commission/"
   - page: What We Do
     url: "/about/what-we-do/"
+  - page: Merger Guidelines
+    url: "/guidelines/mergers/"
   - page: Strategic Goals
     url: "/about/strategic-goals/"
   - page: Departments & Units
@@ -31,8 +33,6 @@ mainnav:
     url: "/consumers/complaints-handling-procedures/"
   - page: Testimonials
     url: "/consumers/testimonials/"
-  - page: Consumer Blog
-    url: "/blog/"
 - section: Businesses
   url: "/businesses/"
   pages:
@@ -45,27 +45,25 @@ mainnav:
 - section: Law & Regulations
   url: "/guidelines/"
   pages:
-  - page: FCCPC Act
+  - page: FCCPA
     url: "/guidelines/documents/"
-  - page: Regulations (Sales Promotion)
-    url: "/guidelines/sales-promotion-guidelines/" 
-  - page: Merger Guidelines
-    url: "/guidelines/mergers/" 
+  - page: Regulations
+    url: "/guidelines/sales-promotion-guidelines/"  
   - page: Other Guidelines
     url: "/guidelines/other-guidelines/"
-  - page: PBOR
-    url: "/guidelines/PBOR"
 - section: Publications
   url: "/publications/"
   pages:
-  - page: Annual Reports
-    url: "/publications/annual-reports/"
-  - page: Consumer Education Materials
+  - page: Business/Consumer Education
     url: "/publications/materials/"
   - page: Absolutely Prohibited Product List
     url: "/publications/absolutely-prohibited-list/"
   - page: Import Prohibition List
     url: "/publications/import-prohibition-list/"
+  - page: PBOR
+    url: "/publications/PBOR"
+  - page: Annual Reports
+    url: "/publications/annual-reports/"
 - section: Partners
   url: "/partners/"
   # pages:
@@ -78,12 +76,14 @@ mainnav:
   pages:
   - page: Releases
     url: "/news-events/releases/"
-  - page: Speeches
-    url: "/news-events/speeches/"
   - page: Announcements
     url: "/news-events/announcements/"
   - page: Alert/Advisory
     url: "/news-events/alerts/"
+  - page: Speeches
+    url: "/news-events/speeches/"
+  - page: Blog
+    url: "/blog/"
   - page: Events
     url: "/news-events/events/"
   - page: Gallery
