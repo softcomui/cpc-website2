@@ -20,10 +20,10 @@ ordered-list:
   body: Provide information and be a resource to consumers regarding products, trends
     and patterns.
 - title: 
-  body: Ensure that service providers and manufacturers make full and frank disclosures
-    of relevant information about their products, or developments with respect to
-    consumption of their products, in a consumer friendly manner which truly guides
-    consumers’ choices.
+  body: Ensure that service providers and manufacturers make full disclosures of relevant
+    information about their products, or developments with respect to consumption
+    of their products, in a consumer friendly manner which truly guides consumers’
+    choices.
 - title: 
   body: Ensure that producers and service providers institutionalise appropriate customer
     care systems including providing information, appropriate support through the

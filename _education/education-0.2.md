@@ -1,6 +1,6 @@
 ---
 title: Education 0.2
-image: "/uploads/disconnection.png"
+image: "/uploads/NERC.jpg"
 dimensions: 420x595
 ---
 
