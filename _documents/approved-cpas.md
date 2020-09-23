@@ -1,7 +1,7 @@
 ---
-title: List of Registered CPAs as of 2018
+title: Partner Association
 document: partners
-file: "/uploads/files/list-of-ngo-in-2018.pdf"
+file: "/uploads/files/list-of-ngo.pdf"
 layout: documents
 ---
 
