@@ -29,7 +29,10 @@ Dr. Adepoju was charged  alongside her clinic, MedContour Services Ltd, on a fiv
 
 
 
-**Ondaje Ijagwu
+**
+Ondaje Ijagwu
+
 Head, Public Relations 
+
 For: Management 
 **
