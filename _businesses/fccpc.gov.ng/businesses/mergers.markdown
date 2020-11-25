@@ -28,6 +28,8 @@ document:
   Name: Download Excel Information Template
 - File: "/uploads/Excel%20Sheets%20Filling%20Information.docx"
   Name: Download Excel Sheets Filling Information
+- File: "/uploads/Guidance%20Note%20for%20Gun%20Jumping.pdf"
+  Name: 'Download Guidance Note on Gun Jumping '
 List:
   Title: Introduction
   Body: Pursuant to Section 17,18 and 163 The Federal Competition and Consumer Protection
