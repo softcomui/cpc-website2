@@ -5,7 +5,7 @@ document:
 - file: "/uploads/Merger-Review-Regulations.pdf"
   name: Download Merger Review Regulations
 - file: "/uploads/files/sales-promotions-regulations.pdf"
-  name: Download Sales Promo Regulation
+  name: Download Sales Promo Regulations
 - file: "/uploads/files/sales-promotions-guidelines.pdf"
   name: Download Guidelines
 List:
