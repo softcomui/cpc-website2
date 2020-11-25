@@ -3,7 +3,7 @@ title: Regulations
 permalink: "/guidelines/sales-promotion-guidelines/"
 document:
 - file: "/uploads/files/sales-promotions-regulations.pdf"
-  name: Download Regulations
+  name: Download Sales Promo Regulation
 - file: "/uploads/files/sales-promotions-guidelines.pdf"
   name: Download Guidelines
 List:
