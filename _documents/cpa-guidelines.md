@@ -1,6 +1,6 @@
 ---
-title: Guidelines
-document: other-guidelines
-file: "/uploads/files/ngo-registration-guidelines.pdf"
+title: CPA Guidelines
+document: Merger Guidelines
+file: "/uploads/Merger%20Review%20Guidelines.pdf"
 ---
 
