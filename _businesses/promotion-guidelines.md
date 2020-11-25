@@ -2,6 +2,8 @@
 title: Regulations
 permalink: "/guidelines/sales-promotion-guidelines/"
 document:
+- file: "/uploads/Merger-Review-Regulations.pdf"
+  name: Download Merger Review Regulations
 - file: "/uploads/files/sales-promotions-regulations.pdf"
   name: Download Sales Promo Regulation
 - file: "/uploads/files/sales-promotions-guidelines.pdf"
