@@ -1,5 +1,5 @@
 ---
-title: CPA Guidelines
+title: Guidelines
 document: other-guidelines
 file: "/uploads/files/ngo-registration-guidelines.pdf"
 ---
