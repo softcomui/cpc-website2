@@ -4,15 +4,12 @@ permalink: "/guidelines/sales-promotion-guidelines/"
 document:
 - file: "/uploads/Merger%20Review%20Regulations.pdf"
   name: Download Merger Review Regulations
-- file: "/uploads/files/sales-promotions-regulations.pdf"
-  name: Download Sales Promo Regulations
-- file: "/uploads/files/sales-promotions-guidelines.pdf"
-  name: Download Guidelines
 List:
 - title: Introduction
-  body: FCCPC, in furtherance of the Federal Competition and Consumer Protection Commission
-    (Sales Promotion) Registration Regulations, 2005, provides guidance and direction
-    on the process of seeking and securing approval for any sales promotion.
+  body: Pursuant to Section 17,18 and 163 The Federal Competition and Consumer Protection
+    Commission hereby issues the Merger Review Regulations 2020 to govern the notification
+    and review of mergers under Part XII of the Federal Competition and Consumer Protection
+    Act 2018.
 layout: page
 ---
 
