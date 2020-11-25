@@ -14,8 +14,6 @@ document:
   Name: Download Form 1A(Published Notice)
 - File: "/uploads/Form%202%20Simplified%20Procedure.docx"
   Name: Download Form 2 Simplified Procedure
-- File: "/uploads/Form%203-%20Decisional%20Report.pdf"
-  Name: 'Download Form 3 Decisional Report '
 - File: "/uploads/Form%204%20Negative%20Clearance.docx"
   Name: 'Download form 4 Negative Clearance '
 - File: "/uploads/Notice%20on%20Merger%20Review%20Timeframe.pdf"
