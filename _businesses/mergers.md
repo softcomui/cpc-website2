@@ -1,9 +1,9 @@
 ---
 title: Mergers
-permalink: "/businesses/mergers/"
 date: 2020-11-25 00:30:00 -11:00
+permalink: "/businesses/mergers/"
 layout: page
-document: 
+document:
 - file: "/uploads/Merger%20Review%20Regulations.pdf"
   name: Download Merger Review Regulations
 - file: "/uploads/Merger%20Review%20Guidelines.pdf"
@@ -31,3 +31,4 @@ document:
 - file: "/uploads/Excel%20Sheets%20Filling%20Information.docx"
   name: 'Download Excel  Sheets Filling Information '
 ---
+
