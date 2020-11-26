@@ -29,10 +29,6 @@ document:
   name: 'Download Guidance Note Gun Jumping '
 - file: "/uploads/Excel%20Sheets%20Filling%20Information.docx"
   name: 'Download Excel  Sheets Filling Information '
-  file-1:
-    Key 1: "[I'm an inline-style link](https://www.google.com)"
-- name: "[I'm an inline-style link](https://www.google.com)"
-main: "[I'm an inline-style link](https://www.google.com)"
 layout: page
 ---
 
@@ -40,4 +36,4 @@ layout: page
 
 Pursuant to Section 17,18 and 163 The Federal Competition and Consumer Protection Commission hereby issues the Merger Review Regulations 2020 with ancillary instruments to govern the notification and review of mergers under Part XII of the Federal Competition and Consumer Protection Act 2018
 
-[I'm an inline-style link](https://www.google.com)
+Please click [here](https://rb.gy/sszxye) to view the Excel  Sheets Filling Information.
