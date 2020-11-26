@@ -1,6 +1,6 @@
 ---
 title: FCCPC Foreign Mergers
-permalink: "/guidelines/mergers/"
+permalink: "/businesses/mergers/"
 layout: documents
 document: merger
 ---

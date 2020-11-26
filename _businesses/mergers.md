@@ -1,0 +1,33 @@
+---
+title: Mergers
+permalink: "/businesses/mergers/"
+date: 2020-11-25 00:30:00 -11:00
+layout: page
+document: 
+- file: "/uploads/Merger%20Review%20Regulations.pdf"
+  name: Download Merger Review Regulations
+- file: "/uploads/Merger%20Review%20Guidelines.pdf"
+  name: Download Merger Review Guidelines
+- file: "/uploads/Form%201%20with%20Guidance%20Note.pdf"
+  name: Download Form 1 Guidance Note
+- file: "/uploads/Form%201.docx"
+  name: 'Download Form 1 '
+- file: "/uploads/Form%201A%20(Published%20Notice).docx"
+  name: Download Form 1A(Published Notice)
+- file: "/uploads/Form%202%20Simplified%20Procedure.docx"
+  name: Download Form 2 Simplified Procedure
+- file: "/uploads/Form%204%20Negative%20Clearance.docx"
+  name: 'Download form 4 Negative Clearance '
+- file: "/uploads/Notice%20on%20Merger%20Review%20Timeframe.pdf"
+  name: 'Download Notice of Merger Review Timeframe '
+- file: "/uploads/Power%20of%20Attorney.docx"
+  name: Download Power of Attorney
+- file: "/uploads/Waiver%20of%20Confidentiality.pdf"
+  name: Download Waiver Confidentiality
+- file: "/uploads/Excel%20Information%20Template.xlsx"
+  name: 'Download Excel Information Template '
+- file: "/uploads/Guidance%20Note%20for%20Gun%20Jumping.pdf"
+  name: 'Download Guidance Note Gun Jumping '
+- file: "/uploads/Excel%20Sheets%20Filling%20Information.docx"
+  name: 'Download Excel  Sheets Filling Information '
+---

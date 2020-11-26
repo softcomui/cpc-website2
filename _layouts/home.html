@@ -37,7 +37,7 @@ layout: default
 
 <div class="maxwidth-sl mx-auto clearfix ">
     <section class="left-70 wrapper">
-        <ul class="carousel first-carousel none" data-flickity='{ "autoPlay": 6000, "adaptiveHeight": true, "contain": true, "prevNextButtons": true, "pageDots": false, "wrapAround": true}'>
+        <!-- <ul class="carousel first-carousel none" data-flickity='{ "autoPlay": 6000, "adaptiveHeight": true, "contain": true, "prevNextButtons": true, "pageDots": false, "wrapAround": true}'>
             {% assign sorted = site.events | where_exp: "page", "page.image contains 'uploads'" %}
             {% for post in sorted %}
                 <li class="carousel-cell">
@@ -53,7 +53,10 @@ layout: default
                     </a>
                 </li>
             {% endfor %}
-        </ul>
+        </ul> -->
+        <a href="{{ site.url }}/businesses/mergers/">
+            <img src="{{ site.url }}/uploads/GAZETTE4.png">
+        </a>
     </section>
     <aside class="right-30 sidebar wrapper">
         {% for item in site.actions %}

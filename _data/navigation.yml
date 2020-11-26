@@ -8,8 +8,6 @@ mainnav:
     url: "/about/commission/"
   - page: What We Do
     url: "/about/what-we-do/"
-  - page: Merger Guidelines
-    url: "/guidelines/mergers/"
   - page: Strategic Goals
     url: "/about/strategic-goals/"
   - page: Departments & Units
@@ -42,6 +40,8 @@ mainnav:
     url: "/businesses/register-sales-promotion/"
   - page: Sales Promotion Documents
     url: "/businesses/documents/"
+  - page: Mergers
+    url: "/businesses/mergers/"
 - section: Law & Regulations
   url: "/guidelines/"
   pages:
@@ -49,6 +49,8 @@ mainnav:
     url: "/guidelines/documents/"
   - page: Regulations
     url: "/guidelines/sales-promotion-guidelines/"  
+  - page: Guidelines
+    url: "/guidelines/merger-guidelines/"
   - page: Other Guidelines
     url: "/guidelines/other-guidelines/"
 - section: Publications
