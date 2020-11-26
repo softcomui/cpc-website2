@@ -32,6 +32,7 @@ document:
   file-1:
     Key 1: "[I'm an inline-style link](https://www.google.com)"
 - name: "[I'm an inline-style link](https://www.google.com)"
+main: "[I'm an inline-style link](https://www.google.com)"
 layout: page
 ---
 
