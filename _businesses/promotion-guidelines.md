@@ -4,7 +4,8 @@ permalink: "/guidelines/sales-promotion-guidelines/"
 document:
 - file: "/uploads/Notice of Threshold for Merger Notification.pdf"
   name: Download Notice of Threshold for Merger Notification
-  summary: The Federal Competition and Consumer Protection Act, 2018 - Notice of Threshold for Merger Notification Pursuant to section 93(4)
+  summary: The Federal Competition and Consumer Protection Act, 2018 - Notice of Threshold
+    for Merger Notification Pursuant to section 93(4)
 - file: "/uploads/Merger%20Review%20Regulations.pdf"
   name: Download Merger Review Regulations
 List:
