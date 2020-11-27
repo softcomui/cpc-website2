@@ -201,6 +201,11 @@ layout: default
     {% for file in page.document %}
     <div class="maxwidth-sl mx-auto clearfix">
         <section class="wrapper">
+            {% if file.summary %}
+                <p>
+                    {{ file.summary }}
+                </p>
+            {% endif %} 
             <a href="{{ file.file | prepend: site.url }}" download>
                 <button class=" btn btn-brand p-1 border prefix smalltext">
                     {{ file.name }}
