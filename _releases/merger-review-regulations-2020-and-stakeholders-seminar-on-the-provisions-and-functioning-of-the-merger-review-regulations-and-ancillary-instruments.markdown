@@ -1,6 +1,6 @@
 ---
-title: Merger review Regulations 2020 and Stakeholders seminar on the provisions and
-  functioning of the Merger Review Regulations and Ancillary Instruments.
+title: Merger Review Regulations 2020 and Stakeholders Seminar on the Provisions and
+  Functioning of the Merger Review Regulations and Ancillary Instruments.
 date: 2020-11-27 05:16:00 -11:00
 ---
 
