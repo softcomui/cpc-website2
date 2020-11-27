@@ -169,7 +169,7 @@ layout: default
             <ul class="none pb-1">
                 {% for item in page.List %}
                     <li>
-                        <h3>{{ item.title }}</h3>
+                        <h3 class="m-0">{{ item.title }}</h3>
                         <p>
                             {{ item.body | markdownify }}
                         </p>
@@ -190,7 +190,7 @@ layout: default
             </ol>
         {% endif %}
 
-        <div class="pb-1">
+        <div>
             {{ content }}
         </div>
     </div>
