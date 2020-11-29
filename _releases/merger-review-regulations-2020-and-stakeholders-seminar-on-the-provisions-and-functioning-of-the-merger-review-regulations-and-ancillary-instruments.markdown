@@ -4,7 +4,7 @@ title: Merger Review Regulations 2020 and Stakeholders Seminar on the Provisions
 date: 2020-11-27 05:16:00 -11:00
 ---
 
-On Monday, November 23rd, 2020, the Federal Competition and Consumer Protection Commission (the Commission) issued the Merger Review Regulations (MRR) 2020 with ancillary instruments. The Merger Review Regulations 2020 establishes a composite framework for the application of rules with aspects to notification and review of mergers under Part XII of the Federal Competition and Consumer Protection Act 2018. In addition to the Merger Review Regulations, the ancillary instruments that have also been issued include:
+On Monday, November 23rd, 2020, the Federal Competition and Consumer Protection Commission (the Commission) issued the Merger Review Regulations (MRR) 2020 with ancillary instruments. The Merger Review Regulations 2020 establishes a composite framework for the application of rules with respect to notification and review of mergers under Part XII of the Federal Competition and Consumer Protection Act 2018. In addition to the Merger Review Regulations, the ancillary instruments that have also been issued include:
 
 1\. The Merger Review Guidelines (MRG) 2020 that provide guidance framework for the procedural and substantive review of notified mergers;
 
