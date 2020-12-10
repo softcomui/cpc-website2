@@ -5,7 +5,7 @@ permalink: "/businesses/mergers/"
 document:
 - file: "/uploads/Merger%20Review%20Regulations.pdf"
   name: Download Merger Review Regulations
-- file: "/uploads/Merger%20Review%20Guidelines.pdf"
+- file: "/uploads/FCCPC%20Merger%20Review%20Guidelines%20(1).pdf"
   name: Download Merger Review Guidelines
 - file: "/uploads/Form%201%20with%20Guidance%20Note.pdf"
   name: Download Form 1 Guidance Note
