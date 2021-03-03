@@ -87,13 +87,13 @@ LOT 7   Installation of Close Circuit Cameras & Intercom   As in the Bidding Doc
    FEDERAL COMPETITION AND CONSUMER PROTECTION COMMISION (FCCPC)
    NO. 17 NILE STREET MAITAMA, ABUJA**
 
-   
+4. 
    on or before 12:00noon, Wednesday, 17th  March, 2021
 
-4. **OPENING OF TECHNICAL BIDS**
+5. **OPENING OF TECHNICAL BIDS**
    The technical bids will be opened immediately after the deadlines for submission at 12:00noon, Wednesday, 17th March, 2021 at the Conference Room of the Commission in compliance with BPP guidelines on Covid – 19 Procurement while the financial bids will be kept un-opened. Please, ensure that you sign the Bid Submission Register, as the Commission will not be held liable for misplaced or wrongly submitted bids.
 
-5. **GENERAL INFORMATION:**
+6. **GENERAL INFORMATION:**
    a.  Bids  must be in English Language and signed by an official authorised by the bidder;
 
    
@@ -106,7 +106,7 @@ LOT 7   Installation of Close Circuit Cameras & Intercom   As in the Bidding Doc
    d.  All costs will be borne by the bidders;
 
    
-   e.  All shortlisted bidders will be contacted at a later date for collection of tender documents;
+   e.  All shortlisted bidders will be contacted at a later date for collection of tender documents
 
    
    f.  The Federal Competition and Consumer Protection Commission  (FCCPC) is not bound to shortlist any bidder and reserves the right to annul the Procurement process at any time without incurring any liabilities in accordance with Section 28 of the Public Procurement Act 2007.
