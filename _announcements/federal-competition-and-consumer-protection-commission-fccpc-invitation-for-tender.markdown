@@ -2,10 +2,8 @@
 title: Federal Competition and Consumer Protection Commission (FCCPC) Invitation for
   Tender
 date: 2021-03-02 04:03:00 -11:00
-published: false
 ---
 
-\[[MEDIA ADVERT FPR GENERAL REHABILITATION OF ASOKORO OFFICE (1).pdf](/uploads/MEDIA%20ADVERT%20FPR%20GENERAL%20REHABILITATION%20OF%20ASOKORO%20OFFICE%20(1).pdf)
 
                                             INVITATION FOR TENDER 
 
@@ -14,13 +12,13 @@ published: false
 
 INVITATION  FOR TENDER (WORKS /GOODS):
 LOT NO. DESCRIPTION   > > > 1. \* \*\*\*\*TECHNICAL  SPECIFICATION           QUANTITY                     DELIVERY LOCATION
-LOT 1   General Repairs and Rehabilitation of main Building at Asokoro  As in the Bidding Document  Ditto   Ditto
-LOT2    Upgrading and Repairing of Electrical and Mechanical Installations  As in the Bidding Document  Ditto   Ditto
-LOT 3   Repair of Aluminium Doors and Windows   As in the Bidding Document  Ditto   Ditto
-LOT 4   Partitioning and Upgrading of Office Building   As in the Bidding Document  Ditto   Ditto
-LOT 5   Maintenance and Upgrading of External Works As in the Bidding Document  Ditto   Ditto
-LOT 6   Laying of Structured Cables and Upgrade of Internet Bandwidth/ Server Room  As in the Bidding Document  Ditto   Ditto
-LOT 7   Installation of Close Circuit Cameras & Intercom    As in the Bidding Document  Ditto   Ditto
+LOT 1   General Repairs and Rehabilitation of main Building at Asokoro.................  As in the Bidding Document  .....Ditto ............  Ditto
+LOT2    Upgrading and Repairing of Electrical and Mechanical Installations  ........As in the Bidding Document  Ditto.............   Ditto
+LOT 3   Repair of Aluminium Doors and Windows.............   As in the Bidding Document ...........Ditto.........   Ditto
+LOT 4   Partitioning and Upgrading of Office Building ..................  As in the Bidding Document.....  Ditto....   Ditto
+LOT 5   Maintenance and Upgrading of External Works ............As in the Bidding Document ...... Ditto  ....... Ditto
+LOT 6   Laying of Structured Cables and Upgrade of Internet Bandwidth/ Server Room..........  As in the Bidding Document..........  Ditto.......   Ditto
+LOT 7   Installation of Close Circuit Cameras & Intercom .............   As in the Bidding Document.........  Ditto......   Ditto
 
 1. ELIGIBILITY REQUIREMENTS:
    a.  Evidence of Certificate of Incorporation with the Corporate Affairs Commission (CAC) including Form CAC2 and CAC7 or Business Name where applicable;\
