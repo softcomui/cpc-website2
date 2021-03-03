@@ -11,6 +11,7 @@ date: 2021-03-02 04:03:00 -11:00
 
 **INVITATION  FOR TENDER (WORKS /GOODS):**
 **LOT NO. DESCRIPTION** \*\***TECHNICAL  SPECIFICATION         QUANTITY                         DELIVERY           LOCATION**
+
 LOT 1   General Repairs and Rehabilitation of main Building at Asokoro  As in the Bidding Document  Ditto  Ditto
 
 
@@ -74,9 +75,6 @@ LOT 7   Installation of Close Circuit Cameras & Intercom   As in the Bidding Doc
   
   m.  Services: Evidence of Firm’s registration with relevant professional body(ies);
 
-  
-  n.  All documents for submission must be transmitted with a Covering/Forwarding letter under the Company/Firm’s Letter Head Paper bearing amongst others, the Registration Number (RC)  as issued by the Corporate Affairs Commission (CAC), Contact Address, Telephone Number (preferably GSM No.), and e-mail address. The Letterhead Paper must bear the Names and Nationalities of the Directors of the Company at the bottom of the page, duly signed by the authorised officer of the firm.
-
 1. **COLLECTION OF TENDER DOCUMENTS:**
    Detailed requirements are provided in the Standard Bidding Documents. Interested Bidders are expected to pay a non-refundable tender fee of Fifteen Thousand Naira (N15, 000.00) only per lot in favour of FCCPC through TSA Remita for Goods and Works and present a verifiable evidence of payment to the Commission’s Account Department for receipt of your payment.
 
@@ -87,13 +85,13 @@ LOT 7   Installation of Close Circuit Cameras & Intercom   As in the Bidding Doc
    FEDERAL COMPETITION AND CONSUMER PROTECTION COMMISION (FCCPC)
    NO. 17 NILE STREET MAITAMA, ABUJA**
 
-4. 
+   
    on or before 12:00noon, Wednesday, 17th  March, 2021
 
-5. **OPENING OF TECHNICAL BIDS**
+1. **OPENING OF TECHNICAL BIDS**
    The technical bids will be opened immediately after the deadlines for submission at 12:00noon, Wednesday, 17th March, 2021 at the Conference Room of the Commission in compliance with BPP guidelines on Covid – 19 Procurement while the financial bids will be kept un-opened. Please, ensure that you sign the Bid Submission Register, as the Commission will not be held liable for misplaced or wrongly submitted bids.
 
-6. **GENERAL INFORMATION:**
+1. **GENERAL INFORMATION:**
    a.  Bids  must be in English Language and signed by an official authorised by the bidder;
 
    
