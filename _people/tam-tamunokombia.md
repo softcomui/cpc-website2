@@ -1,6 +1,6 @@
 ---
 title: Tam Tamunokonbia
-designation: Deputy Director, Legal Services
+designation: Ag Director, Legal Services
 image: "/uploads/people/tamunokonbia.jpg"
 level: Head
 rank: 8
