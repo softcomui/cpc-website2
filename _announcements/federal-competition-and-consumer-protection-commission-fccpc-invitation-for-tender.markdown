@@ -12,11 +12,23 @@ date: 2021-03-02 04:03:00 -11:00
 **INVITATION  FOR TENDER (WORKS /GOODS):**
 **LOT NO. DESCRIPTION** \*\***TECHNICAL  SPECIFICATION         QUANTITY                         DELIVERY           LOCATION**
 LOT 1   General Repairs and Rehabilitation of main Building at Asokoro  As in the Bidding Document  Ditto  Ditto
+
+
 LOT2    Upgrading and Repairing of Electrical and Mechanical Installations  As in the Bidding Document  Ditto  Ditto
+
+
 LOT 3   Repair of Aluminium Doors and Windows   As in the Bidding Document Ditto   Ditto
+
+
 LOT 4   Partitioning and Upgrading of Office Building  As in the Bidding Document  Ditto   Ditto
+
+
 LOT 5   Maintenance and Upgrading of External Works As in the Bidding Document Ditto Ditto
+
+
 LOT 6   Laying of Structured Cables and Upgrade of Internet Bandwidth/ Server Room  As in the Bidding Document  Ditto.   Ditto
+
+
 LOT 7   Installation of Close Circuit Cameras & Intercom   As in the Bidding Document  Ditto   Ditto
 
 1. **ELIGIBILITY REQUIREMENTS:**
@@ -74,6 +86,8 @@ LOT 7   Installation of Close Circuit Cameras & Intercom   As in the Bidding Doc
 3. **THE CHIEF EXECUTIVE OFFICER:
    FEDERAL COMPETITION AND CONSUMER PROTECTION COMMISION (FCCPC)
    NO. 17 NILE STREET MAITAMA, ABUJA**
+
+   
    on or before 12:00noon, Wednesday, 17th  March, 2021
 
 4. **OPENING OF TECHNICAL BIDS**
