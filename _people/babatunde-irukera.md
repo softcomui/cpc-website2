@@ -1,6 +1,6 @@
 ---
 title: Babatunde Irukera
-designation: Chief Executive
+designation: Executive V ice Chairman/Chief Executive
 image: "/uploads/people/babatunde.jpg"
 level: Directors
 rank: 1
