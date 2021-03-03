@@ -7,7 +7,7 @@ rank: 8
 layout: person
 ---
 
-Mr. Tam. Tamunokonbia is a Deputy Director and Head of the Legal Services Department. He was born in Okirika, Okirika Local Government Area of Rivers State. He attended the famous Okirika Grammar School, where he obtained his O’Level West African School Certificate (WASC) from 1976-1981. He proceeded to the Rivers State School of Basic Studies for his A Level WAEC between 1981 and 1983.
+Mr. Tam. Tamunokonbia is a Ag. Director and Head of the Legal Services Department. He was born in Okirika, Okirika Local Government Area of Rivers State. He attended the famous Okirika Grammar School, where he obtained his O’Level West African School Certificate (WASC) from 1976-1981. He proceeded to the Rivers State School of Basic Studies for his A Level WAEC between 1981 and 1983.
 
 Mr. Tamunokonbia was admitted in 1984, to read Law at the Rivers State University, where he graduated with L.L.B (Hons) in 1988. He also obtained a B.L. degree in Law, from the Nigerian Law School, Lagos, in 1989.
 
