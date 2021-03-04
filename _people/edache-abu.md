@@ -19,4 +19,4 @@ He is a professionally qualified chartered accountant, and a member of national 
 
 He has a strong industrial experience with First Bank Plc, and PCD (Project Construction and Design) Associates, where he worked as the Accountant and Head of Accounts and Finance of the firm.
 
-He joined the Federal Competition and Consumer Protection Commission (FCCPC) as a Senior Accountant, and functions in the Internal Audit Unit. His present designation is Deputy Director, Internal Audit (AD/IA).
+He joined the Federal Competition and Consumer Protection Commission (FCCPC) as a Senior Accountant, and functions in the Internal Audit Unit. His present designation is Deputy Director, Internal Audit (DD/IA).
