@@ -1,5 +1,6 @@
 ---
 title: Lami B. Daikwo
+published: false
 designation: Head, Procurement
 image: "/uploads/people/lami.jpg"
 level: Head
