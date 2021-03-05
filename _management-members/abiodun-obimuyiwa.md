@@ -1,5 +1,6 @@
 ---
 title: Abiodun Obimuyiwa
+published: false
 designation: Director, Consumer Education
 image: "/uploads/people/abiodun.jpg"
 level: Head
