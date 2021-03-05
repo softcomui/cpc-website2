@@ -1,14 +1,18 @@
 ---
-title: Babatunde Irukera
-designation: Executive V ice-Chairman/Chief Executive Officer
-image: "/uploads/people/babatunde.jpg"
-level: Directors
-rank: 1
+title: Tam Tamunokonbia
+designation: Ag Director, Legal Services
+image: "/uploads/TAM.jpg"
+level: Head
+rank: 8
 layout: person
 ---
 
-Babatunde Irukera is the Executive Vice-Chairman/Chief Executive Officer of the Federal Competition and Consumer Protection Commission, FCCPC (formerly Consumer Protection Council). He started overseeing the transition and operationalisation of the Commission since January 30, 2019, when the Federal Competition and Consumer Protection Act was enacted. He is responsible for the daily management and leadership of the Commission in fulfilling its mandate to promote market competition, protect consumers and secure remedies when consumer rights are violated. His record of advocacy and representation in competition and consumers’ issues is exceptional and provides the clarity that both the Commission and industry need in addressing issues of customer service/protection, promoting a level playing field in the Nigerian marketplace, and ensuring regulatory stability.  He has been in active legal practice for almost three decades. His varied experience ranges from being In-house Counsel to General Counsel, Managing Partner in a law firm, and advising senior government officials as well as key government institutions. Over this diverse career, Babatunde gained considerable experience in transactions, civil rights and commercial litigation, regulatory work, government relations and practice management.
+Mr. Tam. Tamunokonbia is a Ag. Director and Head of the Legal Services Department. He was born in Okirika, Okirika Local Government Area of Rivers State. He attended the famous Okirika Grammar School, where he obtained his O’Level West African School Certificate (WASC) from 1976-1981. He proceeded to the Rivers State School of Basic Studies for his A Level WAEC between 1981 and 1983.
 
-Key areas of significant litigation and resolution experience for Babatunde include medical malpractice.  He was key counsel in prosecution, negotiation and settlement of a large multi-jurisdictional case involving a major pharmaceutical company and the conduct of a clinical trial that resulted in injuries. He also played vital roles in sector related consumer protection advancements including advising the Nigerian Civil Aviation Authority with respect to its role in sector consumer protection. He led the initiative in developing current aviation consumer protection regulations as well as the Passenger Bill of Rights. He also led the team that revised existing aviation economic regulations and superintended a comprehensive regulatory and parliamentary investigation into anti-competitive behaviour by foreign airlines. He has also provided capacity-building and advisory services to government institutions and other clients with respect to competition/antitrust issues. He co-authors the Nigerian chapters in a range of competition/antitrust related widely regarded international publications.  His unique combination of advocacy, commercial practice and reputation provides the required mutual industry/regulatory assurance and balance for a vibrant and robust consumer protection regime that promotes business stability and investment, as well consumer satisfaction and confidence.
+Mr. Tamunokonbia was admitted in 1984, to read Law at the Rivers State University, where he graduated with L.L.B (Hons) in 1988. He also obtained a B.L. degree in Law, from the Nigerian Law School, Lagos, in 1989.
 
-Babatunde was admitted to practice law before the Supreme Court of Nigeria in 1990, and before the Washington State Supreme Court in 1996.
+His working career began as a prosecutor with the Lagos State Ministry of Justice during his National Youth Service Corps (NYSC) between 1989 and 1990. Upon the completion of his National Service, Mr. Tamunokonbia worked with the firm of Gani Fawehinmi’s Chambers, Lagos, from 1990-1992. He continued his Private Legal Practice as a partner in the firm of H.C. Onuoha & Partners in Ikeja, Lagos, up until 1994.
+
+In 1994, Mr. Tamunokonbia took up an appointment with The Daily Times of Nigeria PLC in Lagos as Legal Officer, and later as an Assistant Company Secretary, and Company Secretary/ Legal Adviser until 2007, when he resigned to join the Federal Competition and Consumer Protection Commission (FCCPC) in Abuja.
+
+At the FCCPC, Mr. Tamunokonbia has served as Chief Surveillance and Enforcement Officer in 2007; Zonal Coordinator, South East Zonal Office, between August 2007 and August, 2013; Head of Lagos Office from September, 2013 to August, 2015, and Assistant Director Legal Services from August, 2015 to March, 2017.
