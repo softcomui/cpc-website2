@@ -8,6 +8,10 @@ collections:
   announcements:
     title: Announcements
     output: true
+  board-members:
+    title: Board Members
+    output: true
+    permalink: "/about/:collection/:name/"
   brochure:
     title: Brochure
     output: true
@@ -18,10 +22,6 @@ collections:
   blog:
     title: Consumer Blog
     output: true
-  board-members:
-    title: Board Members
-    output: true
-    permalink: "/about/:collection/:name/" 
   education:
     title: Consumer Education
     output: true
@@ -52,7 +52,7 @@ collections:
   management-members:
     title: Management Members
     output: true
-    permalink: "/about/:collection/:name/"  
+    permalink: "/about/:collection/:name/"
   people:
     title: Our People
     output: true
