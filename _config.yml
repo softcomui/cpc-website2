@@ -18,6 +18,10 @@ collections:
   blog:
     title: Consumer Blog
     output: true
+  board-members:
+    title: Board Members
+    output: true
+    permalink: "/about/:collection/:name/" 
   education:
     title: Consumer Education
     output: true
@@ -45,6 +49,10 @@ collections:
     title: How-Tos
     output: true
     permalink: "/how-tos/:collection/:name/"
+  management-members:
+    title: Management Members
+    output: true
+    permalink: "/about/:collection/:name/"  
   people:
     title: Our People
     output: true

@@ -1,6 +1,5 @@
 ---
 title: Mrs. Leke Ogundipe
-published: false
 designation: Director, Surveillance & Enforcement
 image: "/uploads/people/leke.jpg"
 level: Directors

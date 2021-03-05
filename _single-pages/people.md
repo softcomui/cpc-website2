@@ -1,7 +1,8 @@
 ---
 title: People
-permalink: "/about/people/"
-layout: people
 show_on_about: true
+permalink: "/about/people/"
+layout: people-archive
+grid: true
+summary: ''
 ---
-
