@@ -5,6 +5,7 @@ designation: Director, Planning, Research and Strategy
 image: "/uploads/OLA%20RAHEEM-579926.jpg"
 level: Director
 rank: 4
+layout: person
 ---
 
 Ola Raheem is a Management Professional with over 25 years Corporate Affairs leadership experience in manufacturing FMCG, consultancy, ICT, insurance, health care, telecommunications and Federal Public Service.
