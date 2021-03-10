@@ -11,7 +11,8 @@ collections:
   board-members:
     title: Board Members
     output: true
-    permalink: "/about/:collection/:name/"
+    permalink: "/about/people/:collection/:name/"
+    layout: person
   brochure:
     title: Brochure
     output: true
@@ -52,7 +53,8 @@ collections:
   management-members:
     title: Management Members
     output: true
-    permalink: "/about/:collection/:name/"
+    permalink: "/about/people/:collection/:name/"
+    layout: person
   people:
     title: Our People
     output: true

@@ -5,6 +5,7 @@ designation: 'Director,  Quality Assurance and Development. '
 image: "/uploads/Madam%20Akeju.jpg"
 level: director
 rank: 6
+layout: person
 ---
 
 Mrs. Mopelola Olubunmi Akeju, the Director, Quality Assurance and Development is a 1983 graduate of Pharmacy from the University of Ife (now Obafemi Awolowo University), Ile – Ife. Osun State, Nigeria. She holds a Master of Science Degree in Pharmacognosy from the same University. She further proceeded to the University of Mississippi, USA, where she obtained another Masters' degree in Pharmaceutical Sciences. In the course of her career path in the Commission, Mrs. Akeju has also undergone various refresher courses on Pharmacy, Food safety, Message Development & Communication, and Management, among others.

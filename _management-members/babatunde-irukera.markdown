@@ -1,10 +1,10 @@
 ---
 title: Babatunde Irukera
-date: 2021-03-05 06:03:00 -11:00
 designation: Executive Vice-Chairman/Chief Executive Officer
-image: "/uploads/DG-5a2402.jpg"
-level: Director
-Rank: 1
+image: "/uploads/DG.jpg"
+level: Directors
+rank: 1
+layout: person
 ---
 
 Babatunde Irukera is the Executive Vice-Chairman/Chief Executive Officer of the Federal Competition and Consumer Protection Commission, FCCPC (formerly Consumer Protection Council). He started overseeing the transition and operationalisation of the Commission since January 30, 2019, when the Federal Competition and Consumer Protection Act was enacted. He is responsible for the daily management and leadership of the Commission in fulfilling its mandate to promote market competition, protect consumers and secure remedies when consumer rights are violated. His record of advocacy and representation in competition and consumers’ issues is exceptional and provides the clarity that both the Commission and industry need in addressing issues of customer service/protection, promoting a level playing field in the Nigerian marketplace, and ensuring regulatory stability.  He has been in active legal practice for almost three decades. His varied experience ranges from being In-house Counsel to General Counsel, Managing Partner in a law firm, and advising senior government officials as well as key government institutions. Over this diverse career, Babatunde gained considerable experience in transactions, civil rights and commercial litigation, regulatory work, government relations and practice management.
