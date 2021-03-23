@@ -29,8 +29,6 @@ document:
   name: 'Download Guidance Note Gun Jumping '
 - file: "/uploads/Excel%20Sheets%20Filling%20Information.docx"
   name: 'Download Excel  Sheets Filling Information '
-- text to display: Apply for Mergers
-  Key: https://mergers.fccpc.gov.ng
 layout: page
 ---
 
