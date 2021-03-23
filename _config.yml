@@ -188,8 +188,8 @@ actions:
   - name: File a Complaint
     link: http://user.fccpc.gov.ng/signin
     text: Filing a complaint will help FCCPC to serve you better.
-  - name: Leave a Review
-    link: http://user.fccpc.gov.ng/signin
+  - name: Apply for Mergers
+    link: https://mergers.fccpc.gov.ng
     text: Your reviews can help businesses know how they are performing.
   - name: Track a Complaint
     link: http://user.fccpc.gov.ng/signin
