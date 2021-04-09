@@ -10,9 +10,9 @@ List:
   contact: '081-4800-7378'
   email: kano@cpc.gov.ng
 - office: LAGOS OFFICE (LO)
-  address: 18, Ilupeju Bypass, Opposite Sweet Sensation, Ilupeju, Lagos.
+  address: 3b Ladoke Akintola Street, G.R.A, Ikeja, Lagos State.
   contact: '081-4717-0730'
-  email: lagos@cpc.gov.ng
+  email: lagos@fccpc.gov.ng
 - office: NORTH-CENTRAL ZONAL OFFICE (NCZO)
   address: 1 st Floor A6 Abudullahi Kure House, Muazu Mohammed Road, Minna, Niger
     State.
