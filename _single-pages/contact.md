@@ -10,7 +10,7 @@ List:
   contact: '081-4800-7378'
   email: kano@cpc.gov.ng
 - office: LAGOS OFFICE (LO)
-  address: 3b Ladoke Akintola Street, G.R.A, Ikeja, Lagos State.
+  address: 3B Ladoke Akintola Street, G.R.A, Ikeja, Lagos State.
   contact: '081-4717-0730'
   email: lagos@fccpc.gov.ng
 - office: NORTH-CENTRAL ZONAL OFFICE (NCZO)
