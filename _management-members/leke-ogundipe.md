@@ -1,6 +1,5 @@
 ---
-title: Mrs. Leke Ogundipe
-published: false
+title: Alhaji Adamu Ahmed Abdullahi
 designation: Director, Surveillance & Enforcement
 image: "/uploads/people/leke.jpg"
 level: Directors
