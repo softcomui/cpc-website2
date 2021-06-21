@@ -1,5 +1,5 @@
 ---
-title: Alhaji Adamu Ahmed Abdullahi
+title: Adamu Ahmed Abdullahi
 date: 2021-06-21 05:33:00 -11:00
 designation: Executive Commissioner (Corporate Services)
 image: "/uploads/DSC_0344.JPG"
