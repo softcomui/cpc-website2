@@ -1,7 +1,7 @@
 ---
 title: Alhaji Adamu Ahmed Abdullahi
 designation: Executive Commissioner (Corporate Services)
-image: "/uploads/DSC_0344.JPG"
+image: "/uploads/DSC_0344%20-%20Copy%20(2).JPG"
 level: Directors
 rank: 2
 layout: person
