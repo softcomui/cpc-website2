@@ -4,7 +4,7 @@ date: 2021-06-21 22:19:00 -11:00
 designation: Executive Commissioner (Corporate Services)
 image: "/uploads/DSC_0344%20-%20Copy%20(2).JPG"
 level: Commissioner
-rank: 2
+rank: 
 ---
 
  Alhaji Adamu Ahmed Abdullahi (Sa’in Jama’are) is an Executive Commissioner, Corporate Services at the Federal Competition and Consumer Protection Commission (FCCPC). He hails from Jama’are Local Government Area of Bauchi State.
