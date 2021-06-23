@@ -4,10 +4,10 @@ date: 2021-06-21 22:19:00 -11:00
 designation: Executive Commissioner (Corporate Services)
 image: "/uploads/DSC_0344%20-%20Copy%20(2).JPG"
 level: Commissioner
-rank: 
+rank: 3
 ---
 
- Alhaji Adamu Ahmed Abdullahi (Sa’in Jama’are) is an Executive Commissioner, Corporate Services at the Federal Competition and Consumer Protection Commission (FCCPC). He hails from Jama’are Local Government Area of Bauchi State.
+Alhaji Adamu Ahmed Abdullahi (Sa’in Jama’are) is an Executive Commissioner, Corporate Services at the Federal Competition and Consumer Protection Commission (FCCPC). He hails from Jama’are Local Government Area of Bauchi State.
 
 Alhaji Adamu Abdullahi holds a Doctor of Business Administration from St. Linus University, Philippines, a Masters in Transport and Logistics (Aviation Management) from St. Louis African University, Republic of Benin; a Master of Arts in Theatre Arts from the University of Jos, and a Bachelor of Fine Arts in Communication Arts, from the New York Institute of Technology, USA. He also holds an International Air Transport Association (IATA) Diploma in Civil Aviation Management; including an IATA Diploma in Airport Strategic Management. His academic accomplishments include an Interim Joint Matriculation Board (IJMB) Certificate from the Kano College of Arts & Science; a Division II result in the West African School Certificate (WASC) from Rumfa College, Kano, and a First School Leaving Certificate, from Tudun Wada Primary School, Kano.
 
