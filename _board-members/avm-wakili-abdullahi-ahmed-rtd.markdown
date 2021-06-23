@@ -1,5 +1,5 @@
 ---
-title: AVM WAKILI ABDULLAHI AHMED (RTD)
+title: AVM Wakili Abdullahi Ahmed (Rtd)
 date: 2021-06-23 01:34:00 -11:00
 designation: Non-Executive Commissioner, North West
 image: "/uploads/AVM%20WAKILI%20AHMED%20(RTD).JPG"
