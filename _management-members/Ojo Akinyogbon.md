@@ -1,6 +1,5 @@
 ---
 title: Akinyogbon Ojo, HND, MBA, ACA, ACIP, FCTI
-published: false
 designation: 'Ag. Director, Finance & Accounts '
 image: "/uploads/DSC_4013%20(2).JPG"
 level: Head
