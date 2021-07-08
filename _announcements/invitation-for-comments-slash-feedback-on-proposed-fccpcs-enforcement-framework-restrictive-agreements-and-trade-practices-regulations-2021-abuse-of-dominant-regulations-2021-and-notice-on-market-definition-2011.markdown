@@ -1,7 +1,7 @@
 ---
-title: Invitation for Comments/Feedback on Proposed FCCPC's Enforcement Framework-Restrictive
-  Agreements and Trade Practices Regulations, 2021; Abuse of Dominant Regulations,
-  2021; and Notice on Market Definition, 2021.
+title: Invitation for comments/feedback on Proposed FCCPC's Enforcement Framework-Restrictive
+  Agreements and Trade Practices Regulations, 2021; Abuse of Dominant Position Regulations,
+  2021; and Notice on Market Definition, 2021
 date: 2021-07-07 20:36:00 -11:00
 ---
 
@@ -10,6 +10,7 @@ The Federal Competition and Consumer Protection Commission (“Commission”) in
 As part of its consultation process, the Commission invites comments/feedback to the proposed Restrictive Agreements and Trade Practices Regulations, Abuse of Dominant Position Regulations and Notice on Market Definition.
 
 The Commission looks forward to receiving your comments/feedback at regulations@fccpc.gov.ng  no later than Wednesday, July 21, 2021.
+
 
 
 [Download 7.7.21- Restrictive Agreements and Trade Practices Regulations.pdf](/uploads/7.7.21-%20Restrictive%20Agreements%20and%20Trade%20Practices%20Regulations.pdf)
