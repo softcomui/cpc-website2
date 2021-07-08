@@ -1,7 +1,7 @@
 ---
-title: Invitation for Comments/Feedback on Proposed FCCPC's Enforcement Framework-Restrictive
-  Agreements and Trade Practices Regulations, 2021; Abuse of Dominant Regulations,
-  2021; and Notice on Market Definition, 2021.
+title: Invitation for comments/feedback on Proposed FCCPC's Enforcement Framework-Restrictive
+  Agreements and Trade Practices Regulations, 2021; Abuse of Dominance Regulations,
+  2021; and Notice on Market Definition, 2021
 date: 2021-07-07 20:36:00 -11:00
 ---
 
