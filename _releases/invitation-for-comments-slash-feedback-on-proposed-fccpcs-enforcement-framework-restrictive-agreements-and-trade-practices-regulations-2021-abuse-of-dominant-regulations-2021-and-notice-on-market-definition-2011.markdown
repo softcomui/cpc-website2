@@ -17,9 +17,11 @@ The Commission looks forward to receiving your comments/feedback at regulations@
 
 
 
+[Download - Restrictive Agreements and Trade Practices Regulations-a83004.pdf](/uploads/7.7.21-%20Restrictive%20Agreements%20and%20Trade%20Practices%20Regulations-a83004.pdf)
 
 
-[Download-Notice on Market Definition [41].docx](/uploads/7.7.21-Notice%20on%20Market%20Definition%20%5B41%5D.docx)
+
+
 
 
 [Download Abuse of Dominance Regulations.pdf](/uploads/7.7.21.%20Abuse%20of%20Dominance%20Regulations.pdf)
