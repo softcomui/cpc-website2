@@ -5,6 +5,13 @@ title: Invitation for Comments/Feedback on Proposed FCCPC's Enforcement Framewor
 date: 2021-07-07 20:54:00 -11:00
 ---
 
+The Federal Competition and Consumer Protection Commission (“Commission”) in exercise of the powers conferred upon the Commission by Sections 17(k); 18(1)(h); 18(3)(a); 163, Part VIII and Part IX of the Federal Competition and Consumer Protection Act, 2018 (FCCPA), intends to make Regulations and Guidelines with respect to its mandate under the FCCPA.
+
+As part of its consultation process, the Commission invites comments/feedback to the proposed Restrictive Agreements and Trade Practices Regulations, Abuse of Dominance Position Regulations and Notice on Market Definition Regulations.
+
+The Commission looks forward to receiving your comments/feedback at regulations@fccpc.gov.ng  no later than Wednesday, July 21, 2021.
+
+
 [Download-Restrictive Agreements and Trade Practices Regulations.pdf](/uploads/7.7.21-%20Restrictive%20Agreements%20and%20Trade%20Practices%20Regulations.pdf)
 
 
