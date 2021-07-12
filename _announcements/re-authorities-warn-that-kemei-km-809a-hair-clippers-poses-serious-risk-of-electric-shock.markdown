@@ -16,8 +16,8 @@ By this notice, online marketers are advised to delist the product from their ma
 
 
 
-**Adamu Abdullahi
+**Adamu Abdullahi**
 
-Executive Commissioner, Operations
+**Executive Commissioner, Operations**
 
-For:  FCCPC**
+**For:  FCCPC**
