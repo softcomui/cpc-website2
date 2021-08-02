@@ -188,9 +188,9 @@ actions:
   - name: File a Complaint
     link: http://user.fccpc.gov.ng/signin
     text: Filing a complaint will help FCCPC to serve you better.
-  - name: Apply for Mergers
+  - name: Merger Notifications
     link: https://mergers.fccpc.gov.ng
-    text: Your reviews can help businesses know how they are performing.
+    text: The FFCPC review mergers to ensure market efficiency.
   - name: Track a Complaint
     link: http://user.fccpc.gov.ng/signin
     text: Keep track of your complaints and account with FCCPC.

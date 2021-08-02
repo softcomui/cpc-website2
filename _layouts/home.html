@@ -27,7 +27,7 @@ layout: default
         </div>
         {% assign reversedReleases = site.releases| reverse %} 
         {% assign latestRelease = reversedReleases[0] %}
-        <div class="ml-4 p-0 ">
+        <div class="ml-4 p-0">
             <span class="co-richblack absolute-position nanotext">
                 {{ latestRelease.title | truncate: 200, '...' }}
             </span>
@@ -70,7 +70,7 @@ layout: default
                                 {% case entry.name %}
                                     {% when 'File a Complaint' %}
                                         {% include tools/icons.html icon="file-complaint" %}
-                                    {% when 'Apply for Mergers' %}
+                                    {% when 'Merger Notifications' %}
                                         {% include tools/icons.html icon="review" %}
                                     {% when 'Track a Complaint' %}
                                         {% include tools/icons.html icon="rights" %}
