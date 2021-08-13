@@ -3,8 +3,8 @@ title: Mergers
 date: 2020-11-25 00:30:00 -11:00
 permalink: "/businesses/mergers/"
 document:
-- file: "/uploads/Merger%20Review%20(Amended)%20Regulations.pdf"
-  name: Download Merger Review(Amended) Regulations
+- file: "/uploads/Merger%20Review%20Regulations.pdf"
+  name: Download Merger Review Regulations
 - file: "/uploads/FCCPC%20Merger%20Review%20Guidelines%20(1).pdf"
   name: Download Merger Review Guidelines
 - file: "/uploads/Form%201%20with%20Guidance%20Note.pdf"
