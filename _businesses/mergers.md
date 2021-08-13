@@ -31,6 +31,8 @@ document:
   name: 'Download Excel  Sheets Filling Information '
 - file: "/uploads/The%20FCCPC%20Administrative%20Penalties%20Regulations,%202020%20(1).pdf"
   name: Download the FCCPC Administrative Penalties Regulations,2020.pdf
+- file: "/uploads/Merger%20Review%20(Amended)%20Regulations.pdf"
+  name: Download Merger Review (Amended) Regulations
 layout: page
 ---
 
