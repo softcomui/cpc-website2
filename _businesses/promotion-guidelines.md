@@ -12,6 +12,12 @@ document:
   name: Download Notice of Threshold for Merger Notification
   summary: The Federal Competition and Consumer Protection Act, 2018 - Notice of Threshold
     for Merger Notification Pursuant to section 93(4)
+- file: "/uploads/Merger%20Review%20(Amended)%20Regulations.pdf"
+  name: Download Merger Review (Amended) Regulations
+  summary: 'The Commission hereby announces the publication of the Federal Competition
+    and Consumer Protection Act - Merger Review (Amended) Regulations, 2021. This
+    amendment makes changes to the applicable fee structure for merger notifications
+    as contained in Schedule 1 of the Merger Review Regulations, 2020. '
 layout: page
 ---
 
