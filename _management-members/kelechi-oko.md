@@ -1,6 +1,5 @@
 ---
 title: Kelechi Oko
-published: false
 designation: Deputy Director, Quality Assurance and Development
 image: "/uploads/people/oko.jpg"
 level: Head
