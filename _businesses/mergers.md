@@ -33,8 +33,6 @@ document:
   name: 'Download Excel  Sheets Filling Information '
 - file: "/uploads/The%20FCCPC%20Administrative%20Penalties%20Regulations,%202020%20(1).pdf"
   name: Download the FCCPC Administrative Penalties Regulations,2020.pdf
-- file: 
-  name: '[Apply for Merger](www.https://mergers.fccpc.gov.ng/){:target="_blank"}'
 layout: page
 ---
 
@@ -42,4 +40,4 @@ layout: page
 
 Pursuant to Section 17,18 and 163 The Federal Competition and Consumer Protection Commission hereby issues the Merger Review Regulations 2020 with ancillary instruments to govern the notification and review of mergers under Part XII of the Federal Competition and Consumer Protection Act 2018
 
-[Apply for Merger](www.https://mergers.fccpc.gov.ng/){:target="_blank"}
+[Apply for Merger](www.mergers.fccpc.gov.ng/){:target="_blank"}
