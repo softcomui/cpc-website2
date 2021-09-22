@@ -34,7 +34,7 @@ document:
 - file: "/uploads/The%20FCCPC%20Administrative%20Penalties%20Regulations,%202020%20(1).pdf"
   name: Download the FCCPC Administrative Penalties Regulations,2020.pdf
 - file: 
-  name: https://mergers.fccpc.gov.ng/
+  name: '[Apply for Merger](www.https://mergers.fccpc.gov.ng/){:target="_blank"}'
 layout: page
 ---
 
