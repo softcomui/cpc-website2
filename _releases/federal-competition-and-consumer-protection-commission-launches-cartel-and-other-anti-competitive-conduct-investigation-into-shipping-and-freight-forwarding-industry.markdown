@@ -25,7 +25,7 @@ These are the early stages of the investigation, and the Commission expects it w
 The Commission encourages persons who may have any information, and or complaints/dissatisfaction or aware of illegal/suspicious conduct with respect to services, rates or activities within the industry, including agents or employees of companies in the industry to provide same to the Commission including anonymously, or in exchange for immunity or other available protection from personal liability or responsibility for conduct in violation of law under the Federal Competition and Consumer Protection Investigative Cooperation/Assistance Rules & Procedures 2021 (available here [ View the FCCPC-Cooperation Assistance Rules Procedures-26022021-FApdf.pdf](/uploads/FCCPC-Cooperation_Assistance%20Rules_Procedures-26022021-FApdf.pdf) ). The Commission also invites other companies in the industry who may wish to take advantage of leniency provisions in the FCCPA to immediately engage before they become specific targets, and the investigation extends to their activities. 
 
 
-Persons wishing to provide information, or whistle-blow may send same to, or contact the Commission at shippingintel@fccpc.gov.ng. Companies interested in entering into the leniency program of the Commission may formally approach the Commission through the Surveillance & Enforcement Department of the Commission.
+Persons wishing to provide information, or whistle-blow may send same to, or contact the Commission at **shippingintel@fccpc.gov.ng.**Companies interested in entering into the leniency program of the Commission may formally approach the Commission through the Surveillance & Enforcement Department of the Commission.
 
 
 **Babatunde Irukera**
