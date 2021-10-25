@@ -2,7 +2,6 @@
 title: Federal Competition & Consumer Protection  Commission Launches Cartel and other  Anti-Competitive  Conduct
   Investigation  into Shipping and Freight forwarding Industry
 date: 2021-10-24 10:31:00 -11:00
-published: false
 ---
 
 *Pursuant to Sections: 1(d); 2(2)(c), 2(3)(c); 17(e), (g), (s); 18(3)(a), (c), (d), (e), (f); 59; 69; 72; 73;
