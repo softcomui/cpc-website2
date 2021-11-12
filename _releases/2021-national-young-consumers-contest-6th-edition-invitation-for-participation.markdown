@@ -26,8 +26,10 @@ b.	Four (4) consumer rights;
 c.	Four (4) consumer responsibilities.
 ****
 
-Section Two: Consumer awareness messages on the theme: Sustainable Consumption: The Role Of Consumers In Addressing Plastic Waste Pollution.
-Your school or schools under your supervision are invited to participate in this competition. 
+**Section Two: Consumer awareness messages on the theme: Sustainable Consumption: The Role Of Consumers In Addressing Plastic Waste Pollution.
+Your school or schools under your supervision are invited to participate in this competition. **
+
+
 There are cash and other prizes for winners as well as opportunity to participate in the award ceremony.
 All entries must reach the Commission by email at **6thconsumercontest@fccpc.gov.ng** **on or before Monday, 22nd November, 2021.
 For further enquiries, contact Mrs. Idowu Yemisi on 08039653892 or Mrs. Bala Hadizat on 08065592717**
