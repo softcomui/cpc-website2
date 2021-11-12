@@ -1,5 +1,5 @@
 ---
-title: '2021 National Young Consumers Contest (6TH EDITION): Invitation for Participation'
+title: '2021 National Young Consumers Contest (6th edition): Invitation for Participation'
 date: 2021-11-12 00:47:00 -11:00
 ---
 
@@ -29,14 +29,15 @@ c.	Four (4) consumer responsibilities.
 Section Two: Consumer awareness messages on the theme: Sustainable Consumption: The Role Of Consumers In Addressing Plastic Waste Pollution.
 Your school or schools under your supervision are invited to participate in this competition. 
 There are cash and other prizes for winners as well as opportunity to participate in the award ceremony.
-All entries must reach the Commission by email at **6thconsumercontest@fccpc.gov.ng** on or before Monday, 22nd November, 2021.
-For further enquiries, contact Mrs. Idowu Yemisi on 08039653892 or Mrs. Bala Hadizat on 08065592717
-Please, accept the assurances of my high regards.
+All entries must reach the Commission by email at **6thconsumercontest@fccpc.gov.ng** **on or before Monday, 22nd November, 2021.
+For further enquiries, contact Mrs. Idowu Yemisi on 08039653892 or Mrs. Bala Hadizat on 08065592717**
+
 
 
 
 
   **Babatunde Irukera**
+
 **Chief Executive Officer**
 
 
