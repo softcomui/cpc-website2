@@ -16,7 +16,7 @@ Learning For Life is designed to stimulate a knowledge sharing contest, known as
 
 **The theme for the contest this year is Sustainable Consumption: The Role Of Consumers In Addressing Plastic Waste Pollution.** The contest is open to all secondary schools. Entries must be submitted not later than 12:00 Midnight, Monday, November 15th, 2021. Submission may be in form of the following:
 
-
+****
 1.	Video Category:  Video presentations not longer than 60 seconds on the theme: Sustainable Consumption: The Role Of Consumers In Addressing Plastic Waste Pollution.
 
 2.	Image Category: One leaf of well designed consumer awareness mock-up flyer. Size A5, front & back. The flyer should be in two sections:
@@ -24,7 +24,7 @@ Section One: Features to capture:
 a.	Five (5) of the functions of FCCPC; 
 b.	Four (4) consumer rights; 
 c.	Four (4) consumer responsibilities.
-
+****
 
 Section Two: Consumer awareness messages on the theme: Sustainable Consumption: The Role Of Consumers In Addressing Plastic Waste Pollution.
 Your school or schools under your supervision are invited to participate in this competition. 
