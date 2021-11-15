@@ -37,9 +37,11 @@ The agencies recognize and welcome products and providers that bridge or close t
 
  
 
-In furtherance of resolutions from the meeting, and the Commission’s role in coordinating the government’s response, the Commission has created a dedicated email address to receive complaints, and or any information about any experiences, identity of businesses or individuals involved in these practices, or any other relevant information that may be helpful to the investigation. The e-mail address is lenderstaskforce@fccpc.gov.ng  
+In furtherance of resolutions from the meeting, and the Commission’s role in coordinating the government’s response, the Commission has created a dedicated email address to receive complaints, and or any information about any experiences, identity of businesses or individuals involved in these practices, or any other relevant information that may be helpful to the investigation. The e-mail address is **lenderstaskforce@fccpc.gov.ng  **
 
  
+
+
 
  
 **Babatunde Irukera**
