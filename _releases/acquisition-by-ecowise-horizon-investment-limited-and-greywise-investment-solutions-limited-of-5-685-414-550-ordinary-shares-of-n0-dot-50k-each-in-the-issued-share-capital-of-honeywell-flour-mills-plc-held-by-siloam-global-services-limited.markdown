@@ -9,7 +9,7 @@ date: 2022-01-06 11:22:00 -11:00
 
 In accordance with these enactments a notification received by the Commission is hereunder published.
 
-This notification involves the following undertaking; 
+This notification involves the following undertakings; 
 
 Flour Mills of Nigeria Plc
 
