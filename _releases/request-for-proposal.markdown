@@ -23,22 +23,23 @@ The FCCPA empowers the Commission to resolve disputes or complaints, issue direc
 The statutory framework for establishing, imposing and conducting the monitoring and supervision include Sections 17(a),(e),(h), (w), 18(1)(c); 18(3),(h) of the FCCPA.
 
 
-MONITORING FRAMEWORK / SCOPE
+**MONITORING FRAMEWORK / SCOPE**
+
 The monitoring framework will cover business processes and activities identified below, and any ancillary or collateral activities, actions or functions:
 Tax and Trade Audits
 To ensure the Company is transparent and in compliance regarding applicable taxes and custom duties; and not exploiting customs valuation principles or engaging in questionable or dubious excise management strategies which are invariably detrimental to competition. The Commission will require the appointed Monitor to conduct oversight with respect to:
 
 
-1.	Post Entry Audits: A review of all import declarations and duty payment receipts – specifically, the SGDs (Single Goods Declaration), bank receipts on payments for all import transactions, details of valuation methods used to determine transaction values between the Company and all other related entities. 
+1.	**Post Entry Audits:** A review of all import declarations and duty payment receipts – specifically, the SGDs (Single Goods Declaration), bank receipts on payments for all import transactions, details of valuation methods used to determine transaction values between the Company and all other related entities. 
 
 
-2.	Audit of inter-company/intra-group or affiliated/related company transactions:  Examination of all transactions carried out by the Company and its related entities and/or all its related distributors and marketing agencies both in Nigeria and aboard.
+2.	**Audit of inter-company/intra-group or affiliated/related company transactions:**  Examination of all transactions carried out by the Company and its related entities and/or all its related distributors and marketing agencies both in Nigeria and aboard.
 
 
-3.	Audit of excise transactions: Audit of excise transactions carried out by the Company, including excise payment receipts versus production volumes. This information is required to ensure the company is not using excise payment adjustments in a manner that provides inappropriate leverage to the detriment of competition. 
+3.	**Audit of excise transactions:** Audit of excise transactions carried out by the Company, including excise payment receipts versus production volumes. This information is required to ensure the company is not using excise payment adjustments in a manner that provides inappropriate leverage to the detriment of competition. 
 
 
-4.	Review of production plans/strategies: Monthly review of planned production volumes to mitigate forestalling or otherwise illegal stock-building activities that may constitute anti-competitive conduct under prevailing law or the Company’s policies.   
+4.	**Review of production plans/strategies:** Monthly review of planned production volumes to mitigate forestalling or otherwise illegal stock-building activities that may constitute anti-competitive conduct under prevailing law or the Company’s policies.   
 
 
 
