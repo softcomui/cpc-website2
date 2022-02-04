@@ -3,7 +3,7 @@ title: 'Request for Proposal: Tax and Trade Audits/Monitoring and Evaluation'
 date: 2022-02-04 05:18:00 -11:00
 ---
 
-BACKGROUND
+**BACKGROUND**
 
 As part of carrying out its statutory duties, the Commission investigates the activities and operations of companies in Nigeria to ensure compliance with prevailing competition and consumer protection laws and regulations.
 
@@ -47,13 +47,13 @@ Audit of Marketing Activities The investigation revealed that the Company engage
 
 New product introduction plans: Audit of marketing strategies for all products the Company intends to introduce, continue, distribute or sell.
 
-Strategies / plans: For any and all products commercialised by the Company.
+**Strategies / plans:** For any and all products commercialised by the Company.
 
 **Other information **
 
 Marketing Mapping Purpose of information gathered Price marketing strategies To mitigate interference with tax and other policies. Product marketing strategies To mitigate interference with product regulation and address concerns of using new product regulatory initiatives to circumvent extant control laws and regulations. Product Placement strategies To address concerns regarding product placement and promotion strategies adopted by the Company. Publicity marketing strategies To ensure the Company complies with the regulatory control measures regarding advertising, promotion and sponsorship under current applicable laws and regulatory framework.
 
-REQUIRED SERVICE
+**REQUIRED SERVICE**
 
 The Commission requests your firm to provide a proposal with respect to a broad and detailed intended plan to execute this engagement if you were appointed the Monitor, tools required, expertise required, confirmation of availability of expertise and your firm for such engagement over a period of 36 (Thirty-Six) months including a fee/cost proposal for discharging the obligations under the engagement.
 
@@ -63,4 +63,4 @@ The Commission requests your firm to provide a proposal with respect to a broad 
 
 DELIVERY The Commission requires your firm to provide this proposal within 7 days of the receipt of this brief.
 
-For further information, kindly contact Florence.abebe@fccpc.gov.ng
+For further information, kindly contact **Florence.abebe@fccpc.gov.ng**
