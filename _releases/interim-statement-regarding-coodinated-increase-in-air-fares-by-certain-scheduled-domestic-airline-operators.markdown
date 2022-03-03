@@ -1,6 +1,6 @@
 ---
-title: Interim Statement Regarding Coodinated increase in Air fares by Certain Scheduled
-  Domestic Airline Operators.
+title: Interim Statement Regarding Coordinated Increase in Air Fares by Certain Scheduled
+  Domestic Airline Operators
 date: 2022-03-03 03:22:00 -11:00
 ---
 
