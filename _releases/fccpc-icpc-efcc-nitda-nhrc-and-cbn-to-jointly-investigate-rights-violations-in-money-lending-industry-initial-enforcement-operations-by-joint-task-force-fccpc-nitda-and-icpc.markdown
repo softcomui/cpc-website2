@@ -37,7 +37,7 @@ In the event that any of these businesses continue in any of this conduct, or th
 The Orders of the Commission are without prejudice to existing borrowers repaying any legitimate loans pursuant to fair and acceptable terms and conditions; or any modifications to previous terms and conditions that are considered onerous, inconsistent with prevailing law or general principles of transparency and fairness. The obligation to comply with the above extends to all operatives, employees or agents of the affected businesses.
 
 
-The JRETF welcomes any useful information that may assist this investigation. The same may be provided at the Commission’s dedicated evidence gathering repository at: ** lenderstaskforce@fccpc.gov.ng.**
+The JRETF welcomes any useful information that may assist this investigation. The same may be provided at the Commission’s dedicated evidence gathering repository at: lenderstaskforce@fccpc.gov.ng.
 
 
 The Commission/JRETF will continue to provide updates to the public, and invites consumers to support the investigation by continuing to provide actionable intelligence about persons associated with the businesses or practices, their telephone numbers and any other pertinent information.
@@ -45,5 +45,8 @@ The Commission/JRETF will continue to provide updates to the public, and invites
 
 
 **Babatunde Irukera**
+
+
 **Executive Vice Chairman/Chief Executive Officer**
+
 For the Joint Regulatory and Enforcement Task Force
