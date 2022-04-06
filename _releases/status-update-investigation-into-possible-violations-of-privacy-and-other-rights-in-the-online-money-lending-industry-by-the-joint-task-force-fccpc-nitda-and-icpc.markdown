@@ -42,7 +42,7 @@ Additional investigative and preemption steps to address the issue include:
 
 Although there is sufficient information to show that unethical and unacceptable practices of operatives of the money lenders have not completely abated, the measures taken so far, and evolving landscape shows that recollection/loan repayment practices that defame, intimidate damage consumers is slowing down.
 
-Some of the moneylenders under investigation, or whose bank accounts have been frozen, and others, have approached the Commission and expressed a desire to cooperate and assist the Commission regarding the investigation under the Commission’s Investigative Cooperation/Assistance Rules and Procedure 2021 (*https://bit.ly/3DFBXyF*). They seek benefit under Rule 4 in exchange for cooperation, assistance and compliance under Rule 3.
+Some of the moneylenders under investigation, or whose bank accounts have been frozen, and others, have approached the Commission and expressed a desire to cooperate and assist the Commission regarding the investigation under the Commission’s Investigative Cooperation/Assistance Rules and Procedure 2021 ([download FCCPC-Cooperation_Assistance Rules Procedures-here.pdf]). They seek benefit under Rule 4 in exchange for cooperation, assistance and compliance under Rule 3.
 
 
 As a condition to acceptance into the cooperation/leniency framework, some of the moneylenders have been required to, have agreed, and executed applicable Declarations enforceable under S. 153 of the FCCPA to immediately and forthwith: 
