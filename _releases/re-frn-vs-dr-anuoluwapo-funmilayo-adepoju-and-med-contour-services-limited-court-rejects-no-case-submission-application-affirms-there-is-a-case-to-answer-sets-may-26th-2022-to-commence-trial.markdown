@@ -1,7 +1,7 @@
 ---
-title: 'RE: FRN vs DR. ANUOLUWAPO FUNMILAYO ADEPOJU and Med Contour Services Limited;
-  Court Rejects no Case Submission Application, affirms there is a Case to Answer,
-  sets May 26th, 2022 to Commence Trial'
+title: 'Re: FRN vs Dr. Anuoluwapo  Funmilayo Adepoju and Med Contour Services Limited;
+  Court Rejects No Case Submission Application, affirms There is a Case to Answer,
+  Sets May 26th, 2022 to Commence Trial'
 date: 2022-04-08 00:22:00 -11:00
 ---
 
