@@ -1,5 +1,5 @@
 ---
-title: REQUEST FOR EXPRESSION OF INTEREST (EOI)
+title: Request for Expression of Interest (EOI)
 date: 2022-05-19 23:30:00 -11:00
 ---
 
