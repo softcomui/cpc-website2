@@ -4,7 +4,7 @@ title: 'Final Report: Possible Violation of Passenger (Consumer) Rights - Mrs. N
 date: 2022-06-29 06:31:00 -11:00
 ---
 
-The Commission received a complaint dated July 3, 2020, on behalf of Mrs. Nneka Ogbonna from Mr. Christopher Ogbonna, alleging violation of passenger rights on Air Peace Limited (Air Peace) Flight P47210 from Lagos to Warri on December 10, 2019. Below is the comprehensive report on the matter.
+The Commission received a complaint dated July 3, 2020, on behalf of Mrs. Nneka Ogbonna from Mr. Christopher Ogbonna, alleging violation of passenger rights on Air Peace Limited (Air Peace) Flight P47210 from Lagos to Warri on December 10, 2019. Below is the comprehensive report and relevant documents.
 
 
 
