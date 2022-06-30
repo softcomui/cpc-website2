@@ -15,7 +15,7 @@ The Commission received a complaint dated July 3, 2020, on behalf of Mrs. Nneka 
 [RESPONSE TO QUESTIONNAIRE-AIR PEACE PASSENGERS](/uploads/RESPONSE%20TO%20QUESTIONNAIRE-AIR%20PEACE%20PASSENGERS.pdf)
 
 
-[CORRESPONDCES](/uploads/CORRESPONDCES.pdf)
+[CORRESPONDENCES](/uploads/CORRESPONDCES.pdf)
 
 
  [COMPLAINT](/uploads/COMPLAINT.pdf)
